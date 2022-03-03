@@ -119,3 +119,4 @@ regex==2022.3.2
 tqdm==4.63.0
 plotly_express==0.4.1
 matplotlib==3.5.1
+wordcloud==1.8.1
