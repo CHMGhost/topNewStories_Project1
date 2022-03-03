@@ -118,3 +118,4 @@ nltk==3.7
 regex==2022.3.2
 tqdm==4.63.0
 plotly_express==0.4.1
+matplotlib==3.5.1
