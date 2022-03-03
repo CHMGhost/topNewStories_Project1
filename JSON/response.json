@@ -1,2059 +1,2418 @@
 {
   "status": "OK",
   "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
-  "section": "Movies",
-  "last_updated": "2022-02-24T12:58:52-05:00",
-  "num_results": 34,
+  "section": "Arts",
+  "last_updated": "2022-03-02T17:52:38-05:00",
+  "num_results": 39,
   "results": [
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018The 2022 Oscar Nominated Short Films\u2019 Review: Small Tales, Big Ideas",
-      "abstract": "From near-future nightmares to inspirational sports narratives, this year\u2019s shorts are an eclectic bunch.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/oscar-nominated-short-films-review.html",
-      "uri": "nyt://article/4b738df9-c872-5da2-9cbf-f5ee5946e779",
-      "byline": "By Jeannette Catsoulis, Amy Nicholson and Ben Kenigsberg",
+      "section": "arts",
+      "subsection": "music",
+      "title": "Putin\u2019s Maestro, and the Limits of Cultural Exchange in Wartime",
+      "abstract": "The Russian conductor Valery Gergiev and the diva Anna Netrebko have lost engagements because of their ties to Putin, as geopolitics and music collide once again.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/music/ukraine-putin-valery-gergiev-anna-netrebko.html",
+      "uri": "nyt://article/40f7fc80-c0ff-5205-a83d-49ccab5eaae3",
+      "byline": "By Zachary Woolfe",
       "item_type": "Article",
-      "updated_date": "2022-02-25T00:22:21-05:00",
-      "created_date": "2022-02-24T12:10:57-05:00",
-      "published_date": "2022-02-24T12:10:57-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Academy Awards (Oscars)",
-        "Movies",
-        "Documentary Films and Programs",
-        "Animated Films",
-        "The Dress (Movie)",
-        "On My Mind (Movie)",
-        "Please Hold (Movie)",
-        "Ala Kachuu (Take and Run) (Movie)",
-        "The Long Goodbye (2020) (Movie)",
-        "Bestia (Movie)",
-        "Boxballet (Movie)",
-        "The Windshield Wiper (Movie)",
-        "The Queen of Basketball (Movie)",
-        "Audible (Movie)",
-        "When We Were Bullies (Movie)",
-        "Lead Me Home (Movie)",
-        "Three Songs for Benazir (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/shorts-liveaction1/shorts-liveaction1-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 992,
-          "width": 1565,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The actor and musician Riz Ahmed in \u201cThe Long Goodbye,\u201d\u00a0Aneil Karia\u2019s visceral film accompaniment to Ahmed\u2019s 2020 concept album of the same name.",
-          "copyright": "ShortsTV"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/shorts-liveaction1/shorts-liveaction1-threeByTwoSmallAt2X-v2.jpeg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The actor and musician Riz Ahmed in \u201cThe Long Goodbye,\u201d\u00a0Aneil Karia\u2019s visceral film accompaniment to Ahmed\u2019s 2020 concept album of the same name.",
-          "copyright": "ShortsTV"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/shorts-liveaction1/shorts-liveaction1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The actor and musician Riz Ahmed in \u201cThe Long Goodbye,\u201d\u00a0Aneil Karia\u2019s visceral film accompaniment to Ahmed\u2019s 2020 concept album of the same name.",
-          "copyright": "ShortsTV"
-        }
-      ],
-      "short_url": "https://nyti.ms/3p9Aniv"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "Shelf Life: Our Collections and the Passage of Time",
-      "abstract": "Set off by a scene in a movie, a critic reflects on cultural baggage: \u201cThe things you loved when you were young will never be able to make you young again.\u201d",
-      "url": "https://www.nytimes.com/2022/02/24/movies/worst-person-in-the-world-generation-x.html",
-      "uri": "nyt://article/f084f260-a399-5aed-b688-81b3bcdd4944",
-      "byline": "By A.O. Scott and Daniel Arnold",
-      "item_type": "Article",
-      "updated_date": "2022-02-27T15:13:48-05:00",
-      "created_date": "2022-02-24T09:00:22-05:00",
-      "published_date": "2022-02-24T09:00:22-05:00",
+      "updated_date": "2022-03-02T15:10:37-05:00",
+      "created_date": "2022-03-02T13:04:18-05:00",
+      "published_date": "2022-03-02T13:04:18-05:00",
       "material_type_facet": "",
       "kicker": "Critic\u2019s Notebook",
       "des_facet": [
-        "Collectors and Collections",
-        "Generation X",
-        "Movies",
-        "The Worst Person in the World (Movie)",
-        "Books and Literature",
-        "The Nineties: A Book (Book)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Trier, Joachim",
-        "Klosterman, Chuck"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/27collecting-notebook-scott1/merlin_202663059_f4f06a2e-c48f-4c6b-894b-721005965859-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1369,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The physical objects that represent pop-culture obsessions: A.O. Scott\u2019s books and DVDs at home.",
-          "copyright": ""
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/27collecting-notebook-scott1/merlin_202663059_f4f06a2e-c48f-4c6b-894b-721005965859-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The physical objects that represent pop-culture obsessions: A.O. Scott\u2019s books and DVDs at home.",
-          "copyright": ""
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/27collecting-notebook-scott1/27collecting-notebook-scott1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The physical objects that represent pop-culture obsessions: A.O. Scott\u2019s books and DVDs at home.",
-          "copyright": ""
-        }
-      ],
-      "short_url": "https://nyti.ms/3HmcQ49"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Cyrano\u2019 Review: Who Wrote the Book of Love?",
-      "abstract": "Peter Dinklage wields pen and sword in a musical adaptation of the durable French romance.",
-      "url": "https://www.nytimes.com/2022/02/23/movies/cyrano-review.html",
-      "uri": "nyt://article/ccc1721d-b08f-5eec-833b-0eefc48e019f",
-      "byline": "By A.O. Scott",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T12:05:26-05:00",
-      "created_date": "2022-02-23T19:36:54-05:00",
-      "published_date": "2022-02-23T19:36:54-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "Cyrano (Movie)"
+        "Russian Invasion of Ukraine (2022)",
+        "Classical Music",
+        "Music",
+        "Opera"
       ],
       "org_facet": [
-        "National, The (Music Group)"
+        "Metropolitan Opera",
+        "Munich Philharmonic",
+        "Zurich Opera"
       ],
       "per_facet": [
-        "Wright, Joe",
-        "Dinklage, Peter",
-        "Bennett, Haley",
-        "Harrison, Kelvin Jr",
-        "Berninger, Matt",
-        "Besser, Carin",
-        "Dessner, Aaron",
-        "Schmidt, Erica (1975- )"
+        "Gergiev, Valery",
+        "Netrebko, Anna",
+        "Gelb, Peter",
+        "Homoki, Andreas",
+        "Levit, Igor",
+        "Putin, Vladimir V"
       ],
-      "geo_facet": [],
+      "geo_facet": [
+        "Europe"
+      ],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24cyrano-1/merlin_202492701_81fce5fb-ed3a-4802-b5b6-aba6e6c1e2b2-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02music-war1/merlin_107464121_b72b39fb-c559-4a8d-8667-a15d1a7a3084-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1365,
+          "height": 1228,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Wordsmith: Peter Dinklage as Cyrano in Joe Wright\u2019s movie.",
-          "copyright": "Peter Mountain/Metro-Goldwyn-Mayer"
+          "caption": "President Vladimir V. Putin of Russia addressed the audience via video link before Valery Gergiev conducted the Mariinsky Orchestra in the Syrian city of Palmyra in 2016.",
+          "copyright": "Pool photo by Mikhail Klimentyev"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24cyrano-1/merlin_202492701_81fce5fb-ed3a-4802-b5b6-aba6e6c1e2b2-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02music-war1/02music-war1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Wordsmith: Peter Dinklage as Cyrano in Joe Wright\u2019s movie.",
-          "copyright": "Peter Mountain/Metro-Goldwyn-Mayer"
+          "caption": "President Vladimir V. Putin of Russia addressed the audience via video link before Valery Gergiev conducted the Mariinsky Orchestra in the Syrian city of Palmyra in 2016.",
+          "copyright": "Pool photo by Mikhail Klimentyev"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24cyrano-1/24cyrano-1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02music-war1/02music-war1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Wordsmith: Peter Dinklage as Cyrano in Joe Wright\u2019s movie.",
-          "copyright": "Peter Mountain/Metro-Goldwyn-Mayer"
+          "caption": "President Vladimir V. Putin of Russia addressed the audience via video link before Valery Gergiev conducted the Mariinsky Orchestra in the Syrian city of Palmyra in 2016.",
+          "copyright": "Pool photo by Mikhail Klimentyev"
         }
       ],
-      "short_url": "https://nyti.ms/3sfLRDp"
+      "short_url": "https://nyti.ms/3pyC4GB"
     },
     {
       "section": "movies",
       "subsection": "",
-      "title": "The Oscars\u2019 Popularity Crisis",
-      "abstract": "Why academy efforts like trimming awards from the telecast won\u2019t help. People watch because it\u2019s a show about elite work, not in spite of it.",
-      "url": "https://www.nytimes.com/2022/02/23/movies/oscars-telecast-problems.html",
-      "uri": "nyt://article/05e177b7-6b3c-5228-adbf-ebfdb9f33632",
+      "title": "Bong Joon Ho and Ryusuke Hamaguchi on Oscar Surprise \u2018Drive My Car\u2019",
+      "abstract": "The Korean filmmaker and the Japanese director have long admired each other. The two explain why Hamaguchi\u2019s best-picture nominee resonates.",
+      "url": "https://www.nytimes.com/2022/03/02/movies/bong-joon-ho-ryusuke-hamaguchi-drive-my-car.html",
+      "uri": "nyt://article/82b8f679-36a9-50d0-ae80-a76174c26cd8",
       "byline": "By Kyle Buchanan",
       "item_type": "Article",
-      "updated_date": "2022-02-27T10:53:48-05:00",
-      "created_date": "2022-02-23T14:07:08-05:00",
-      "published_date": "2022-02-23T14:07:08-05:00",
+      "updated_date": "2022-03-02T17:23:37-05:00",
+      "created_date": "2022-03-02T13:31:39-05:00",
+      "published_date": "2022-03-02T13:31:39-05:00",
       "material_type_facet": "",
       "kicker": "The Projectionist",
       "des_facet": [
         "Movies",
         "Academy Awards (Oscars)",
-        "Television"
-      ],
-      "org_facet": [
-        "ABC Inc",
-        "Academy of Motion Picture Arts and Sciences"
-      ],
-      "per_facet": [
-        "Packer, Will (1974- )",
-        "Schumer, Amy",
-        "Hall, Regina",
-        "Sykes, Wanda"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/23projectionist-popularity/merlin_202701486_f20991da-796e-468e-a218-361a937fd5ea-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The many efforts to \u201cfix\u201d the telecast are starting to overshadow the ceremony.",
-          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/23projectionist-popularity/merlin_202701486_f20991da-796e-468e-a218-361a937fd5ea-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The many efforts to \u201cfix\u201d the telecast are starting to overshadow the ceremony.",
-          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/23projectionist-popularity/merlin_202701486_f20991da-796e-468e-a218-361a937fd5ea-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The many efforts to \u201cfix\u201d the telecast are starting to overshadow the ceremony.",
-          "copyright": "Eric Baradat/Agence France-Presse \u2014 Getty Images"
-        }
-      ],
-      "short_url": "https://nyti.ms/3pahQmx"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Studio 666\u2019 Review: Foo Fighting the Devil",
-      "abstract": "The band members play themselves in this horror comedy from BJ McDonnell. But the gore overtakes the (limited) fun.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/studio-666-review-foo-fighters.html",
-      "uri": "nyt://article/5b204ad4-900e-5497-a4ee-2407a84ced00",
-      "byline": "By Wesley Morris",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T11:54:48-05:00",
-      "created_date": "2022-02-24T01:10:24-05:00",
-      "published_date": "2022-02-24T01:10:24-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "Studio 666 (Movie)"
-      ],
-      "org_facet": [
-        "Foo Fighters"
-      ],
-      "per_facet": [
-        "Grohl, David",
-        "McDonnell, BJ (1975- )"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/24studio-six-review1/24studio-six-review1-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1199,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Taylor Hawkins, left, Dave Grohl and Rami Jaffee playing themselves in \u201cStudio 666.\u201d",
-          "copyright": "Open Road Films"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/24studio-six-review1/24studio-six-review1-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Taylor Hawkins, left, Dave Grohl and Rami Jaffee playing themselves in \u201cStudio 666.\u201d",
-          "copyright": "Open Road Films"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/24studio-six-review1/24studio-six-review1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Taylor Hawkins, left, Dave Grohl and Rami Jaffee playing themselves in \u201cStudio 666.\u201d",
-          "copyright": "Open Road Films"
-        }
-      ],
-      "short_url": "https://nyti.ms/3t6tHmr"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Three Months\u2019 Review: A Refreshing Film Treatment of H.I.V.",
-      "abstract": "This sensitive comedy by Jared Frieder sketches a relationship that blossoms in the shadow of not knowing.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/three-months-movie-review.html",
-      "uri": "nyt://article/1f5432c7-3843-5b32-81ba-15e182634627",
-      "byline": "By Teo Bugbee",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T11:54:14-05:00",
-      "created_date": "2022-02-24T00:45:02-05:00",
-      "published_date": "2022-02-24T00:45:02-05:00",
-      "material_type_facet": "",
-      "kicker": "Critic\u2019s Pick",
-      "des_facet": [
-        "Movies",
-        "Three Months (Movie)"
+        "Drive My Car (Movie)",
+        "Parasite (Movie)"
       ],
       "org_facet": [],
       "per_facet": [
-        "Sivan, Troye (1995- )",
-        "Kalra, Viveik",
-        "Burstyn, Ellen",
-        "Frieder, Jared (Film Director)"
+        "Bong Joon Ho",
+        "Hamaguchi, Ryusuke"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/24three-months-pix1/merlin_202495353_36452e30-7e55-4a98-a87c-2155b6c5e279-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02PROJECTIONIST-DIRECTORS/02PROJECTIONIST-DIRECTORS-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1434,
+          "height": 1535,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "From left, Viveik Kalra and Troye Sivan in \u201cThree Months,\u201d a film by Jared Frieder.",
-          "copyright": "Brian Douglas/Paramount+"
+          "caption": "Ryusuke Hamaguchi, left, and his film \u201cDrive My Car\u201d are up for the same awards that Bong Joon Ho and \u201cParasite\u201d won.",
+          "copyright": "Eric Gaillard/Reuters (Hamaguchi); Philip Cheung for The New York Times (Bong)"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/24three-months-pix1/merlin_202495353_36452e30-7e55-4a98-a87c-2155b6c5e279-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02PROJECTIONIST-DIRECTORS/02PROJECTIONIST-DIRECTORS-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "From left, Viveik Kalra and Troye Sivan in \u201cThree Months,\u201d a film by Jared Frieder.",
-          "copyright": "Brian Douglas/Paramount+"
+          "caption": "Ryusuke Hamaguchi, left, and his film \u201cDrive My Car\u201d are up for the same awards that Bong Joon Ho and \u201cParasite\u201d won.",
+          "copyright": "Eric Gaillard/Reuters (Hamaguchi); Philip Cheung for The New York Times (Bong)"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/24three-months-pix1/24three-months-pix1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02PROJECTIONIST-DIRECTORS/02PROJECTIONIST-DIRECTORS-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "From left, Viveik Kalra and Troye Sivan in \u201cThree Months,\u201d a film by Jared Frieder.",
-          "copyright": "Brian Douglas/Paramount+"
+          "caption": "Ryusuke Hamaguchi, left, and his film \u201cDrive My Car\u201d are up for the same awards that Bong Joon Ho and \u201cParasite\u201d won.",
+          "copyright": "Eric Gaillard/Reuters (Hamaguchi); Philip Cheung for The New York Times (Bong)"
         }
       ],
-      "short_url": "https://nyti.ms/3HlWVmp"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "Restoring \u2018The Godfather\u2019 to Its Original (Still Dark) Glory",
-      "abstract": "Francis Ford Coppola discusses a repaired 50th-anniversary edition of his classic, one that aims to be as vivid \u2014 and shadowy \u2014 as it was in 1972.",
-      "url": "https://www.nytimes.com/2022/02/23/movies/godfather-francis-ford-coppola.html",
-      "uri": "nyt://article/694ed96f-1140-5809-9f6a-2de2d8b58430",
-      "byline": "By Dave Itzkoff",
-      "item_type": "Article",
-      "updated_date": "2022-02-24T12:00:10-05:00",
-      "created_date": "2022-02-23T10:00:10-05:00",
-      "published_date": "2022-02-23T10:00:10-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "The Godfather (Movie)"
-      ],
-      "org_facet": [
-        "American Zoetrope",
-        "Paramount Pictures"
-      ],
-      "per_facet": [
-        "Coppola, Francis Ford",
-        "Mockoski, James"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/23godfather-coppola1/merlin_202684308_f41c3a0c-70ae-4dc4-9030-e5d8fb326f7a-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 2048,
-          "width": 1336,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Marlon Brando in the opening scene of \u201cThe Godfather.\u201d Stains, tears and other flaws in the film have been fixed for the new edition.",
-          "copyright": "Paramount Pictures"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/23godfather-coppola1/23godfather-coppola1-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Marlon Brando in the opening scene of \u201cThe Godfather.\u201d Stains, tears and other flaws in the film have been fixed for the new edition.",
-          "copyright": "Paramount Pictures"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/23godfather-coppola1/23godfather-coppola1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Marlon Brando in the opening scene of \u201cThe Godfather.\u201d Stains, tears and other flaws in the film have been fixed for the new edition.",
-          "copyright": "Paramount Pictures"
-        }
-      ],
-      "short_url": "https://nyti.ms/3HeiVzF"
+      "short_url": "https://nyti.ms/3Hvt9fn"
     },
     {
       "section": "arts",
-      "subsection": "",
-      "title": "Husband of Slain Cinematographer Was \u2018Just So Angry\u2019 at Alec Baldwin",
-      "abstract": "Matthew Hutchins, the widower of Halyna Hutchins, says in an upcoming \u201cToday\u201d show interview that it was \u201cabsurd\u201d for Mr. Baldwin to deny responsibility in the fatal shooting.",
-      "url": "https://www.nytimes.com/2022/02/23/arts/matthew-hutchins-alec-baldwin-rust.html",
-      "uri": "nyt://article/a2ac252e-ce0a-546a-b1ec-da306137f6c3",
-      "byline": "By Julia Jacobs",
+      "subsection": "television",
+      "title": "The Women of \u2018The Dropout\u2019 Want to Humanize Elizabeth Holmes",
+      "abstract": "In a group interview, Elizabeth Meriwether, Amanda Seyfried and Rebecca Jarvis discuss the new Hulu series about the fall of Theranos and their efforts to reveal the woman beneath the turtleneck.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/television/the-dropout-elizabeth-holmes.html",
+      "uri": "nyt://article/3b304622-70e3-5975-9590-2776a02588a4",
+      "byline": "By Alexis Soloski",
       "item_type": "Article",
-      "updated_date": "2022-02-24T08:42:49-05:00",
-      "created_date": "2022-02-23T18:06:04-05:00",
-      "published_date": "2022-02-23T18:06:04-05:00",
+      "updated_date": "2022-03-02T14:17:03-05:00",
+      "created_date": "2022-03-02T05:00:15-05:00",
+      "published_date": "2022-03-02T05:00:15-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Firearms",
-        "Rust (Movie)",
-        "Movies",
-        "Suits and Litigation (Civil)",
-        "Deaths (Fatalities)"
+        "Television",
+        "The Dropout (TV Program)"
+      ],
+      "org_facet": [
+        "Hulu.com",
+        "Theranos Inc"
+      ],
+      "per_facet": [
+        "Seyfried, Amanda",
+        "Meriwether, Liz",
+        "Jarvis, Rebecca (1981- )",
+        "Holmes, Elizabeth (1984- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/06/arts/06dropout-1/merlin_202698195_b6f909a7-22e1-426a-9416-8bc34cea5465-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Dropout\u201d tracks the rise and fall of Elizabeth Holmes and the start-up Theranos. From left: Elizabeth Meriwether, the creator; Amanda Seyfried, the star; and Rebecca Jarvis, the journalist whose podcast inspired the series.",
+          "copyright": "Jingyu Lin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/06/arts/06dropout-1/06dropout-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Dropout\u201d tracks the rise and fall of Elizabeth Holmes and the start-up Theranos. From left: Elizabeth Meriwether, the creator; Amanda Seyfried, the star; and Rebecca Jarvis, the journalist whose podcast inspired the series.",
+          "copyright": "Jingyu Lin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/06/arts/06dropout-1/06dropout-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Dropout\u201d tracks the rise and fall of Elizabeth Holmes and the start-up Theranos. From left: Elizabeth Meriwether, the creator; Amanda Seyfried, the star; and Rebecca Jarvis, the journalist whose podcast inspired the series.",
+          "copyright": "Jingyu Lin for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IAlWfa"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "5 Minutes That Will Make You Love Wagner",
+      "abstract": "Rian Johnson, Patti Smith, Alex Ross and others offer favorite highlights of a composer best known for his sprawling length.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/music/wagner-opera-classical-music.html",
+      "uri": "nyt://article/966e5edd-8634-562a-abe7-2ccfbb41240c",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T06:41:07-05:00",
+      "created_date": "2022-03-02T05:00:28-05:00",
+      "published_date": "2022-03-02T05:00:28-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Opera",
+        "Music",
+        "Classical Music"
       ],
       "org_facet": [],
       "per_facet": [
-        "Hutchins, Halyna (1979-2021)",
-        "Baldwin, Alec"
+        "Wagner, Richard"
       ],
-      "geo_facet": [
-        "New Mexico"
-      ],
+      "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/23rust-2/23rust-2-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02fiveminutes-wagner-gif/02fiveminutes-wagner-gif-superJumbo-v2.gif",
           "format": "Super Jumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Matthew Hutchins, whose wife, Halyna, was killed on the set of \u201cRust\u201d last year, spoke about the shooting in an interview with Hoda Kotb for NBC\u2019s \u201cToday\u201d show.\u00a0",
-          "copyright": "Chris Haston/NBC"
+          "caption": "",
+          "copyright": "Angie Wang"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/23rust-2/23rust-2-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02fiveminutes-wagner-gif/02fiveminutes-wagner-gif-threeByTwoSmallAt2X.gif",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Matthew Hutchins, whose wife, Halyna, was killed on the set of \u201cRust\u201d last year, spoke about the shooting in an interview with Hoda Kotb for NBC\u2019s \u201cToday\u201d show.\u00a0",
-          "copyright": "Chris Haston/NBC"
+          "caption": "",
+          "copyright": "Angie Wang"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/23rust-2/23rust-2-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02fiveminutes-wagner-gif/02fiveminutes-wagner-gif-thumbLarge-v2.gif",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Matthew Hutchins, whose wife, Halyna, was killed on the set of \u201cRust\u201d last year, spoke about the shooting in an interview with Hoda Kotb for NBC\u2019s \u201cToday\u201d show.\u00a0",
-          "copyright": "Chris Haston/NBC"
+          "caption": "",
+          "copyright": "Angie Wang"
         }
       ],
-      "short_url": "https://nyti.ms/3t15kGU"
+      "short_url": "https://nyti.ms/3C4jBXD"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "Stream These Three Great Documentaries",
-      "abstract": "This month\u2019s nonfiction picks include a film on suburban surveillance, a deep dive into movie sound and an Oscar-nominated exploration of teens on the margins.",
-      "url": "https://www.nytimes.com/2022/02/23/movies/streaming-documentaries.html",
-      "uri": "nyt://article/6ecd5e51-088f-55f1-887b-5b3ec5576c39",
-      "byline": "By Ben Kenigsberg",
+      "section": "arts",
+      "subsection": "design",
+      "title": "Vladimir Potanin, Russian Oligarch, Steps Down as Guggenheim Trustee",
+      "abstract": "Mr. Potanin, one of the richest men in Russia and a Guggenheim Museum donor for decades, is the latest oligarch affected by widening outrage over the war in Ukraine.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/design/vladimir-potanin-russian-oligarch-guggenheim.html",
+      "uri": "nyt://article/942c7f59-e48b-5148-91c6-ca5f400b56ce",
+      "byline": "By Graham Bowley and Matt Stevens",
       "item_type": "Article",
-      "updated_date": "2022-02-23T15:04:46-05:00",
-      "created_date": "2022-02-23T15:04:46-05:00",
-      "published_date": "2022-02-23T15:04:46-05:00",
+      "updated_date": "2022-03-02T19:43:48-05:00",
+      "created_date": "2022-03-02T17:46:12-05:00",
+      "published_date": "2022-03-02T17:46:12-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Documentary Films and Programs",
-        "Making Waves: The Art of Cinematic Sound (Movie)",
-        "Streetwise (Movie)",
-        "The Feeling of Being Watched (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Costin, Midge",
-        "Bell, Martin (Filmmaker)"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2018/04/18/arts/documentary-streaming01/merlin_136946826_1b6e4efc-66df-42cc-9386-fbe8e2bdd9f2-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1080,
-          "width": 1920,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Residents of Bridgeview, Ill., where the F.B.I. conducted surveillance for two decades, in \u201cThe Feeling of Being Watched.\u201d",
-          "copyright": "Watched Film"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2018/04/18/arts/documentary-streaming01/documentary-streaming01-threeByTwoSmallAt2X-v2.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Residents of Bridgeview, Ill., where the F.B.I. conducted surveillance for two decades, in \u201cThe Feeling of Being Watched.\u201d",
-          "copyright": "Watched Film"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2018/04/18/arts/documentary-streaming01/18tribeca-guide-watched-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Residents of Bridgeview, Ill., where the F.B.I. conducted surveillance for two decades, in \u201cThe Feeling of Being Watched.\u201d",
-          "copyright": "Watched Film"
-        }
-      ],
-      "short_url": "https://nyti.ms/3JMEuZU"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "SAG Awards 2022: Troy Kotsur Wins Best Supporting Actor",
-      "abstract": "The prizes are being handed out tonight. Check back here for live updates.",
-      "url": "https://www.nytimes.com/2022/02/27/movies/sag-awards-winners-list.html",
-      "uri": "nyt://article/9a78b245-bca9-58e2-a7b3-78db8f7c3b54",
-      "byline": "By The New York Times",
-      "item_type": "Article",
-      "updated_date": "2022-02-27T20:15:00-05:00",
-      "created_date": "2022-02-27T18:00:05-05:00",
-      "published_date": "2022-02-27T18:00:05-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies"
+        "Art",
+        "Museums",
+        "Russian Invasion of Ukraine (2022)",
+        "Appointments and Executive Changes",
+        "Philanthropy"
       ],
       "org_facet": [
-        "Screen Actors Guild"
+        "Guggenheim, Solomon R, Museum"
       ],
-      "per_facet": [],
+      "per_facet": [
+        "Potanin, Vladimir O",
+        "Putin, Vladimir V"
+      ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/27sag-awards-kotsur/merlin_202964403_ff9efcc0-d3c0-4b22-81de-acddbf4b1ed7-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02potanin-1/merlin_87626585_99516ecd-168d-42af-8061-74ffa6d3ea9c-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1456,
+          "height": 1339,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Troy Kotsur arriving at the ceremony. He won best supporting actor for his role in \u201cCODA.\u201d",
-          "copyright": "Jordan Strauss/Invision, via Jordan Strauss/Invision/Ap"
+          "caption": "Vladimir Potanin, one of the richest men in Russia and a trustee of the Guggenheim Museum for many years, is stepping down from its board.\u00a0",
+          "copyright": "Maxim Shemetov/Reuters"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/27sag-awards-kotsur/merlin_202964403_ff9efcc0-d3c0-4b22-81de-acddbf4b1ed7-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02potanin-1/02potanin-1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Troy Kotsur arriving at the ceremony. He won best supporting actor for his role in \u201cCODA.\u201d",
-          "copyright": "Jordan Strauss/Invision, via Jordan Strauss/Invision/Ap"
+          "caption": "Vladimir Potanin, one of the richest men in Russia and a trustee of the Guggenheim Museum for many years, is stepping down from its board.\u00a0",
+          "copyright": "Maxim Shemetov/Reuters"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/27sag-awards-kotsur/merlin_202964403_ff9efcc0-d3c0-4b22-81de-acddbf4b1ed7-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02potanin-1/02potanin-1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Troy Kotsur arriving at the ceremony. He won best supporting actor for his role in \u201cCODA.\u201d",
-          "copyright": "Jordan Strauss/Invision, via Jordan Strauss/Invision/Ap"
+          "caption": "Vladimir Potanin, one of the richest men in Russia and a trustee of the Guggenheim Museum for many years, is stepping down from its board.\u00a0",
+          "copyright": "Maxim Shemetov/Reuters"
         }
       ],
-      "short_url": "https://nyti.ms/36MLkR0"
+      "short_url": "https://nyti.ms/3CmzAk1"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Tyler Perry\u2019s A Madea Homecoming\u2019 Review: Tyler\u2019s Hard Lemonade",
-      "abstract": "Tyler Perry revives his signature character \u2014 this time for Netflix \u2014 in a fast, nonsensical new Madea movie.",
-      "url": "https://www.nytimes.com/2022/02/25/movies/a-madea-homecoming-review.html",
-      "uri": "nyt://article/177b5227-0add-5baf-b9d0-6a6bfe68a052",
-      "byline": "By Amy Nicholson",
+      "section": "arts",
+      "subsection": "television",
+      "title": "The State of the Union: Together, if Only for a Few Minutes",
+      "abstract": "President Biden brought a cheerleading tone to a normal-ish address for very abnormal times.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html",
+      "uri": "nyt://article/ba24bf2e-592e-57a5-9325-956104698454",
+      "byline": "By James Poniewozik",
       "item_type": "Article",
-      "updated_date": "2022-02-26T08:59:31-05:00",
-      "created_date": "2022-02-25T20:55:32-05:00",
-      "published_date": "2022-02-25T20:55:32-05:00",
+      "updated_date": "2022-03-02T09:23:25-05:00",
+      "created_date": "2022-03-02T09:23:25-05:00",
+      "published_date": "2022-03-02T09:23:25-05:00",
       "material_type_facet": "",
-      "kicker": "",
+      "kicker": "Critic\u2019s Notebook",
       "des_facet": [
-        "Movies",
-        "A Madea Family Funeral (Movie)"
+        "United States Politics and Government",
+        "State of the Union Message (US)",
+        "Television"
       ],
       "org_facet": [],
       "per_facet": [
-        "Perry, Tyler"
+        "Biden, Joseph R Jr"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25madea-review/25madea-review-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02SOTU-notebook1b/02SOTU-notebook1b-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1335,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joseph R. Biden Jr.\u2019s first State of the Union address inspired unified expressions of support for Ukraine, but the usual partisan divisions soon surfaced.",
+          "copyright": "Sarahbeth Maney/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02SOTU-notebook1b/02SOTU-notebook1b-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joseph R. Biden Jr.\u2019s first State of the Union address inspired unified expressions of support for Ukraine, but the usual partisan divisions soon surfaced.",
+          "copyright": "Sarahbeth Maney/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02SOTU-notebook1b/02SOTU-notebook1b-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Joseph R. Biden Jr.\u2019s first State of the Union address inspired unified expressions of support for Ukraine, but the usual partisan divisions soon surfaced.",
+          "copyright": "Sarahbeth Maney/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/35HBYpc"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "I Love London Theater. But Not London Theatergoing.",
+      "abstract": "While full of fine shows, a long-awaited binge was also full of stress about how loosely audiences followed rules about staying healthy in a pandemic.",
+      "url": "https://www.nytimes.com/2022/03/02/theater/london-theater-pandemic-safety.html",
+      "uri": "nyt://article/bd45e9e6-4713-52e5-849b-25923f36e532",
+      "byline": "By Laura Collins-Hughes",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T08:26:05-05:00",
+      "created_date": "2022-03-02T05:00:28-05:00",
+      "published_date": "2022-03-02T05:00:28-05:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Theater",
+        "Coronavirus (2019-nCoV)",
+        "& Juliet (Play)",
+        "A Number (Play)",
+        "Cyrano de Bergerac (Play)",
+        "Henry V (Play)",
+        "The Book of Dust: La Belle Sauvage (Book)",
+        "The Chairs (Play)",
+        "The Ocean at the End of the Lane (Play)",
+        "The Book of Dust: La Belle Sauvage (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/06/arts/13london-notebook-wuthering/merlin_202489545_e075a2e6-e6b0-4a9d-aa22-34465cfaf274-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Tyler Perry, left, and Brendan O\u2019Carroll in \u201cTyler Perry\u2019s A Madea Homecoming.\u201d",
-          "copyright": "Charles Bergmann/Tyler Perry Studios/Netflix"
+          "caption": "From left, Sam Archer, Ash Hunter and Lucy McCormick in Emma Rice\u2019s adaptation of \u201cWuthering Heights.\u201d",
+          "copyright": "Steve Tanner"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25madea-review/25madea-review-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/06/arts/13london-notebook-wuthering/merlin_202489545_e075a2e6-e6b0-4a9d-aa22-34465cfaf274-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Tyler Perry, left, and Brendan O\u2019Carroll in \u201cTyler Perry\u2019s A Madea Homecoming.\u201d",
-          "copyright": "Charles Bergmann/Tyler Perry Studios/Netflix"
+          "caption": "From left, Sam Archer, Ash Hunter and Lucy McCormick in Emma Rice\u2019s adaptation of \u201cWuthering Heights.\u201d",
+          "copyright": "Steve Tanner"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25madea-review/25madea-review-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/06/arts/13london-notebook-wuthering/13london-notebook-wuthering-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Tyler Perry, left, and Brendan O\u2019Carroll in \u201cTyler Perry\u2019s A Madea Homecoming.\u201d",
-          "copyright": "Charles Bergmann/Tyler Perry Studios/Netflix"
+          "caption": "From left, Sam Archer, Ash Hunter and Lucy McCormick in Emma Rice\u2019s adaptation of \u201cWuthering Heights.\u201d",
+          "copyright": "Steve Tanner"
         }
       ],
-      "short_url": "https://nyti.ms/3hhsIKG"
+      "short_url": "https://nyti.ms/344KYEa"
     },
     {
-      "section": "world",
-      "subsection": "asia",
-      "title": "Bappi Lahiri, India\u2019s \u2018Disco King,\u2019 Dies at 69",
-      "abstract": "He helped popularize the genre with some of the country\u2019s biggest hits of all time, including \u201cI Am a Disco Dancer.\u201d",
-      "url": "https://www.nytimes.com/2022/02/25/world/asia/bappi-lahiri-dead.html",
-      "uri": "nyt://article/3b9742a7-0e3c-524a-a2f4-27aa957e1541",
-      "byline": "By Alex Traub",
+      "section": "theater",
+      "subsection": "",
+      "title": "Broadway\u2019s Cort Theater Will Have a New Name: James Earl Jones",
+      "abstract": "The landmark theater will be renamed in honor of the 91-year-old actor who has made 21 Broadway appearances and won two competitive Tony Awards.",
+      "url": "https://www.nytimes.com/2022/03/02/theater/cort-theater-james-earl-jones.html",
+      "uri": "nyt://article/86d745f7-0344-5eda-832d-f1656da5d70b",
+      "byline": "By Michael Paulson",
       "item_type": "Article",
-      "updated_date": "2022-02-25T22:17:08-05:00",
-      "created_date": "2022-02-25T15:21:24-05:00",
-      "published_date": "2022-02-25T15:21:24-05:00",
+      "updated_date": "2022-03-02T10:00:07-05:00",
+      "created_date": "2022-03-02T10:00:07-05:00",
+      "published_date": "2022-03-02T10:00:07-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Movies",
-        "Music",
-        "Deaths (Obituaries)",
-        "I Am a Disco Dancer (Song)"
+        "Theater",
+        "Theaters (Buildings)",
+        "Black People"
       ],
-      "org_facet": [],
+      "org_facet": [
+        "Cort Theater (Manhattan, NY)",
+        "Shubert Organization"
+      ],
       "per_facet": [
-        "Lahiri, Bappi (1952-2022)"
+        "Jones, James Earl"
       ],
-      "geo_facet": [
-        "India"
-      ],
+      "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/26/obituaries/246ahiriobit1/24lahiri-image-top-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01jones/merlin_123375254_e0e7bcec-9f5b-407c-855c-b9c46bb8b0d8-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1388,
+          "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Bappi Lahiri in 2011 at his home in Mumbai. He grew up idolizing Elvis for his style and ultimately became known for his own flair \u2014 tinted sunglasses, shiny jackets and mounds of gold jewelry.",
-          "copyright": "Anshuman Poyrekar/Hindustan Times via Getty Images"
+          "caption": "James Earl Jones accepting a special Tony Award for lifetime achievement in 2017.",
+          "copyright": "Sara Krulwich/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/26/obituaries/246ahiriobit1/24lahiri-image-top-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01jones/merlin_123375254_e0e7bcec-9f5b-407c-855c-b9c46bb8b0d8-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Bappi Lahiri in 2011 at his home in Mumbai. He grew up idolizing Elvis for his style and ultimately became known for his own flair \u2014 tinted sunglasses, shiny jackets and mounds of gold jewelry.",
-          "copyright": "Anshuman Poyrekar/Hindustan Times via Getty Images"
+          "caption": "James Earl Jones accepting a special Tony Award for lifetime achievement in 2017.",
+          "copyright": "Sara Krulwich/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/26/obituaries/246ahiriobit1/24lahiri-image-top-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01jones/01jones-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Bappi Lahiri in 2011 at his home in Mumbai. He grew up idolizing Elvis for his style and ultimately became known for his own flair \u2014 tinted sunglasses, shiny jackets and mounds of gold jewelry.",
-          "copyright": "Anshuman Poyrekar/Hindustan Times via Getty Images"
+          "caption": "James Earl Jones accepting a special Tony Award for lifetime achievement in 2017.",
+          "copyright": "Sara Krulwich/The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3HpTKdw"
+      "short_url": "https://nyti.ms/35hF9UJ"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "Five Action Movies to Stream Now",
-      "abstract": "This month\u2019s picks include poignant international takes on superhero films, an Indian adaptation about a charming, remorseless grifter and more.",
-      "url": "https://www.nytimes.com/2022/02/25/movies/action-movies-streaming.html",
-      "uri": "nyt://article/f02d3bb8-1351-5dc0-938b-d79059513302",
-      "byline": "By Robert Daniels",
+      "section": "arts",
+      "subsection": "music",
+      "title": "Dua Lipa Brings Her Lockdown Anthems to the Arena",
+      "abstract": "The pop star\u2019s second album, \u201cFuture Nostalgia,\u201d is ambitious and impressive. Onstage, the production didn\u2019t match the LP\u2019s ecstasy.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/music/dua-lipa-future-nostalgia-tour-review.html",
+      "uri": "nyt://article/84a45155-0607-54c9-a125-e42aa78116d6",
+      "byline": "By Jon Caramanica",
       "item_type": "Article",
-      "updated_date": "2022-02-25T12:50:37-05:00",
-      "created_date": "2022-02-25T12:50:37-05:00",
-      "published_date": "2022-02-25T12:50:37-05:00",
+      "updated_date": "2022-03-02T14:07:50-05:00",
+      "created_date": "2022-03-02T14:07:50-05:00",
+      "published_date": "2022-03-02T14:07:50-05:00",
       "material_type_facet": "",
-      "kicker": "",
+      "kicker": "Live Review",
       "des_facet": [
-        "Movies",
-        "The Awakener (Movie)",
-        "Pushpa: The Rise (Movie)",
-        "Seobok: Project Clone (Movie)",
-        "Looop Lapeta (Movie)",
-        "The Translator (Movie)"
+        "Pop and Rock Music",
+        "Future Nostalgia (Album)",
+        "Physical (Song)"
       ],
       "org_facet": [],
-      "per_facet": [],
+      "per_facet": [
+        "Lipa, Dua"
+      ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/streaming-awakener/streaming-awakener-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02dua-live1/merlin_203094480_253e08a1-b37b-4bd6-a87f-f789e95717b5-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 733,
-          "width": 1000,
+          "height": 1365,
+          "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Kiko Pissolato in \u201cThe Awakener.\u201d",
-          "copyright": "Shout! Studios"
+          "caption": "Dua Lipa\u2019s \u201cFuture Nostalgia\u201d was one of the first excellent albums of the Covid era. On Tuesday, she brought her long-delayed tour supporting it to Madison Square Garden in New York.",
+          "copyright": "The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/streaming-awakener/streaming-awakener-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02dua-live1/merlin_203094480_253e08a1-b37b-4bd6-a87f-f789e95717b5-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Kiko Pissolato in \u201cThe Awakener.\u201d",
-          "copyright": "Shout! Studios"
+          "caption": "Dua Lipa\u2019s \u201cFuture Nostalgia\u201d was one of the first excellent albums of the Covid era. On Tuesday, she brought her long-delayed tour supporting it to Madison Square Garden in New York.",
+          "copyright": "The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/streaming-awakener/streaming-awakener-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02dua-live1/02dua-live1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Kiko Pissolato in \u201cThe Awakener.\u201d",
-          "copyright": "Shout! Studios"
+          "caption": "Dua Lipa\u2019s \u201cFuture Nostalgia\u201d was one of the first excellent albums of the Covid era. On Tuesday, she brought her long-delayed tour supporting it to Madison Square Garden in New York.",
+          "copyright": "The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3Hln594"
+      "short_url": "https://nyti.ms/3vz33p9"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "Foo Fighters Made a Horror Film. Because Why Not?",
-      "abstract": "Dave Grohl shares how the band went from filming funny music videos to making \u201cStudio 666,\u201d due Feb. 25, and discusses a coming album.",
-      "url": "https://www.nytimes.com/2022/02/25/movies/foo-fighters-studio-666.html",
-      "uri": "nyt://article/4ab9746e-8b03-55a5-a6af-9aca2ef362a3",
-      "byline": "By Sara Aridi",
+      "section": "arts",
+      "subsection": "design",
+      "title": "Gold Ingots From 18th-Century Shipwreck Returned to France",
+      "abstract": "The Chinese ingots, illegally harvested from a French frigate that sank while returning from Nanjing, were seized by U.S. investigators when they were put up for auction in California.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/design/china-france-gold-ingots.html",
+      "uri": "nyt://article/f586c66f-7004-586c-88e6-452d26c318ef",
+      "byline": "By Tom Mashberg",
       "item_type": "Article",
-      "updated_date": "2022-02-25T12:25:46-05:00",
-      "created_date": "2022-02-25T10:00:11-05:00",
-      "published_date": "2022-02-25T10:00:11-05:00",
+      "updated_date": "2022-03-02T17:55:17-05:00",
+      "created_date": "2022-03-02T16:39:22-05:00",
+      "published_date": "2022-03-02T16:39:22-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Movies",
-        "Music",
-        "Pop and Rock Music"
+        "Shipwrecks (Historic)",
+        "Arts and Antiquities Looting",
+        "Auctions",
+        "Currency",
+        "Antiques Roadshow (TV Program)"
       ],
       "org_facet": [
-        "Foo Fighters"
+        "Customs and Border Protection (US)",
+        "Homeland Security Department"
       ],
-      "per_facet": [
-        "Grohl, David"
+      "per_facet": [],
+      "geo_facet": [
+        "Nanjing (China)"
       ],
-      "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/25davegrohl-qa1/merlin_202493289_edee09f5-7c93-40ba-b128-88ed80ded545-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02ingots/02ingots-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1152,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dave Grohl plays a rock star with an unholy source of creativity in \u201cStudio 666.\u201d\u00a0",
-          "copyright": "Open Road Films"
+          "caption": "A special agent with U.S. Homeland Security Investigations holding two of the five gold ingots that were returned to France.",
+          "copyright": "via U.S. Homeland Security Investigations"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/25davegrohl-qa1/25davegrohl-qa1-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02ingots/02ingots-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dave Grohl plays a rock star with an unholy source of creativity in \u201cStudio 666.\u201d\u00a0",
-          "copyright": "Open Road Films"
+          "caption": "A special agent with U.S. Homeland Security Investigations holding two of the five gold ingots that were returned to France.",
+          "copyright": "via U.S. Homeland Security Investigations"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/25davegrohl-qa1/25davegrohl-qa1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02ingots/02ingots-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Dave Grohl plays a rock star with an unholy source of creativity in \u201cStudio 666.\u201d\u00a0",
-          "copyright": "Open Road Films"
+          "caption": "A special agent with U.S. Homeland Security Investigations holding two of the five gold ingots that were returned to France.",
+          "copyright": "via U.S. Homeland Security Investigations"
         }
       ],
-      "short_url": "https://nyti.ms/35rFT9x"
+      "short_url": "https://nyti.ms/3IHCpyg"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "Why Is \u2018Cyrano\u2019 Still So Potent? Ask Anyone Who\u2019s Loved at All.",
-      "abstract": "The 19th-century French play is quite adaptable, as numerous stage and film versions have shown, including the latest musical starring Peter Dinklage.",
-      "url": "https://www.nytimes.com/2022/02/25/movies/cyrano-peter-dinklage.html",
-      "uri": "nyt://article/84ba6230-ebe2-533f-a584-d12dfa69a5b3",
-      "byline": "By Jason Bailey",
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Winter Season at City Ballet: \u2018Now Is the Time for a New Generation\u2019",
+      "abstract": "The season saw more farewells, from principals Teresa Reichlen and Gonzalo Garcia, along with a rush of talent from the recently promoted.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/dance/new-york-city-ballet-winter-season.html",
+      "uri": "nyt://article/df20e4d7-86b6-5df1-bc1c-b9631bb5b1e5",
+      "byline": "By Gia Kourlas",
       "item_type": "Article",
-      "updated_date": "2022-02-25T12:19:32-05:00",
-      "created_date": "2022-02-25T09:00:10-05:00",
-      "published_date": "2022-02-25T09:00:10-05:00",
+      "updated_date": "2022-03-02T16:57:12-05:00",
+      "created_date": "2022-03-02T11:54:50-05:00",
+      "published_date": "2022-03-02T11:54:50-05:00",
       "material_type_facet": "",
       "kicker": "Critic\u2019s Notebook",
       "des_facet": [
-        "Theater",
-        "Movies",
-        "Cyrano (Movie)",
-        "Roxanne (Movie)",
-        "Cyrano de Bergerac (Play)"
+        "Dancing",
+        "Mozartiana (Ballet)",
+        "Opus 19/The Dreamer (Ballet)",
+        "Summerspace (Dance)"
       ],
-      "org_facet": [],
+      "org_facet": [
+        "New York City Ballet"
+      ],
       "per_facet": [
-        "Dinklage, Peter",
-        "Martin, Steve",
-        "Rostand, Edmond"
+        "Fairchild, Megan",
+        "Furlan, Jovani",
+        "Garcia, Gonzalo",
+        "Gerrity, Emilie",
+        "Kikta, Emily",
+        "Laracey, Ashley",
+        "Mearns, Sara",
+        "Mejia, Roman",
+        "Nadon, Mira"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/25cyrano-notebook1/merlin_196964952_cb1e5935-e024-4ae0-ad9a-97b4bd6c5635-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/03/arts/02city-ballet-notebook1/merlin_203056992_0eaafb8c-06c8-4048-af9a-049bbda316f2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Indiana Woodward, recently promoted to principal dancer, in \u201cLa Valse.\u201d",
+          "copyright": "Paul Kolnik"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/03/arts/02city-ballet-notebook1/02city-ballet-notebook1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Indiana Woodward, recently promoted to principal dancer, in \u201cLa Valse.\u201d",
+          "copyright": "Paul Kolnik"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/03/arts/02city-ballet-notebook1/02city-ballet-notebook1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Indiana Woodward, recently promoted to principal dancer, in \u201cLa Valse.\u201d",
+          "copyright": "Paul Kolnik"
+        }
+      ],
+      "short_url": "https://nyti.ms/3MgqklI"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Renowned Conductor, Battling Brain Cancer, Steps Down From Orchestra",
+      "abstract": "Michael Tilson Thomas, who helped found the New World Symphony in 1987, said his condition was prompting him to step down as its artistic director.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/music/mtt-new-world-symphony.html",
+      "uri": "nyt://article/e19b0199-d141-5049-892f-78da7792b80f",
+      "byline": "By Javier C. Hern\u00e1ndez",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T15:15:19-05:00",
+      "created_date": "2022-03-02T15:15:19-05:00",
+      "published_date": "2022-03-02T15:15:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Brain Cancer",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [
+        "New World Symphony"
+      ],
+      "per_facet": [
+        "Thomas, Michael Tilson"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02orchestra/merlin_197360121_4fdef28f-8da2-4ce8-8d30-206395325db1-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Peter Dinklage as the title character in \u201cCyrano,\u201d opposite Haley Bennett as his love interest.",
-          "copyright": "Peter Mountain/MGM"
+          "caption": "Michael Tilson Thomas conducting the New York Philharmonic in November.",
+          "copyright": "Richard Termine for The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/25cyrano-notebook1/merlin_196964952_cb1e5935-e024-4ae0-ad9a-97b4bd6c5635-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02orchestra/merlin_197360121_4fdef28f-8da2-4ce8-8d30-206395325db1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Peter Dinklage as the title character in \u201cCyrano,\u201d opposite Haley Bennett as his love interest.",
-          "copyright": "Peter Mountain/MGM"
+          "caption": "Michael Tilson Thomas conducting the New York Philharmonic in November.",
+          "copyright": "Richard Termine for The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/25cyrano-notebook1/25cyrano-notebook1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02orchestra/02orchestra-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Peter Dinklage as the title character in \u201cCyrano,\u201d opposite Haley Bennett as his love interest.",
-          "copyright": "Peter Mountain/MGM"
+          "caption": "Michael Tilson Thomas conducting the New York Philharmonic in November.",
+          "copyright": "Richard Termine for The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3Iovda5"
+      "short_url": "https://nyti.ms/3MfAUcJ"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018No Exit\u2019 Review: Who\u2019s Bluffing?",
-      "abstract": "In this diverting thriller, a young woman discovers a kidnapping in progress while snowed in at a rest stop",
-      "url": "https://www.nytimes.com/2022/02/25/movies/no-exit-review.html",
-      "uri": "nyt://article/67531c50-1884-566e-a394-4cc005ae1e51",
-      "byline": "By Beatrice Loayza",
+      "section": "arts",
+      "subsection": "music",
+      "title": "Gaming Giant Behind Fortnite Buys Bandcamp, an Indie Music Haven",
+      "abstract": "Epic Games is acquiring an online music platform that has been embraced by musicians for its eclectic offerings and a payment system that favors artists.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/music/epic-games-bandcamp.html",
+      "uri": "nyt://article/498ffef5-b2e8-53b2-a158-2961b92393ed",
+      "byline": "By Ben Sisario",
       "item_type": "Article",
-      "updated_date": "2022-02-25T12:46:37-05:00",
-      "created_date": "2022-02-25T03:01:11-05:00",
-      "published_date": "2022-02-25T03:01:11-05:00",
+      "updated_date": "2022-03-02T15:48:50-05:00",
+      "created_date": "2022-03-02T15:10:23-05:00",
+      "published_date": "2022-03-02T15:10:23-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Movies",
-        "No Exit (Movie)"
+        "Music",
+        "Mergers, Acquisitions and Divestitures",
+        "Computer and Video Games",
+        "Video Recordings, Downloads and Streaming",
+        "Fortnite (Video Game)"
       ],
-      "org_facet": [],
+      "org_facet": [
+        "Bandcamp Inc",
+        "Epic Games"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/multimedia/02epic/02epic-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Epic Games has increasingly shown an interest in music. In October, J Balvin performed a concert inside the game Fortnite; now the company has acquired the music platform Bandcamp.",
+          "copyright": "Jessica Lehrman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/multimedia/02epic/02epic-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Epic Games has increasingly shown an interest in music. In October, J Balvin performed a concert inside the game Fortnite; now the company has acquired the music platform Bandcamp.",
+          "copyright": "Jessica Lehrman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/multimedia/02epic/02epic-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Epic Games has increasingly shown an interest in music. In October, J Balvin performed a concert inside the game Fortnite; now the company has acquired the music platform Bandcamp.",
+          "copyright": "Jessica Lehrman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pz0tMm"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "A Conductor Brings Nearly a Century of Experience to Beethoven",
+      "abstract": "Herbert Blomstedt, 94 and leading the New York Philharmonic this week, discusses the famous opening of the Fifth Symphony.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/music/ny-philharmonic-herbert-blomstedt.html",
+      "uri": "nyt://article/ac312c6e-8ed9-56bc-9d37-452f1b4e0ff7",
+      "byline": "By David Allen",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T16:18:19-05:00",
+      "created_date": "2022-03-02T12:04:20-05:00",
+      "published_date": "2022-03-02T12:04:20-05:00",
+      "material_type_facet": "",
+      "kicker": "My Favorite Page",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "New York Philharmonic"
+      ],
       "per_facet": [
-        "Power, Damien"
+        "Blomstedt, Herbert",
+        "Beethoven, Ludwig van"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25no-exit-review/25no-exit-review-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2019/03/02/02Blomstedt/merlin_151454706_36857a72-7dc7-42c4-89e2-639d3d0f0df5-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Herbert Blomstedt conducting the New York Philharmonic in 2019. He returns on Thursday to lead symphonies by Nielsen and Beethoven.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/03/02/02Blomstedt/merlin_151454706_36857a72-7dc7-42c4-89e2-639d3d0f0df5-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Herbert Blomstedt conducting the New York Philharmonic in 2019. He returns on Thursday to lead symphonies by Nielsen and Beethoven.",
+          "copyright": "Chris Lee"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/03/02/02Blomstedt/merlin_151454706_36857a72-7dc7-42c4-89e2-639d3d0f0df5-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Herbert Blomstedt conducting the New York Philharmonic in 2019. He returns on Thursday to lead symphonies by Nielsen and Beethoven.",
+          "copyright": "Chris Lee"
+        }
+      ],
+      "short_url": "https://nyti.ms/3vwZtMp"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Magritte Sets Record With $79.7 Million Sale at Sotheby\u2019s",
+      "abstract": "\u201cL\u2019empire des lumi\u00e8res\u201d (1961), one of a series by the Surrealist, was auctioned during a bustling London art week.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/design/magritte-auction-sothebys.html",
+      "uri": "nyt://article/79bea84f-60c9-53af-9bfe-a6d9e84135a9",
+      "byline": "By Scott Reyburn",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T18:40:53-05:00",
+      "created_date": "2022-03-02T18:40:53-05:00",
+      "published_date": "2022-03-02T18:40:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Auctions"
+      ],
+      "org_facet": [
+        "Sotheby's",
+        "Christie's",
+        "Phillips Auctioneers LLC"
+      ],
+      "per_facet": [
+        "Magritte, Rene"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02magritte1/merlin_202717980_ea5b6313-0653-4f86-9d96-b54a97ecf599-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers holding Ren\u00e9 Magritte\u2019s \u201cL\u2019empire des lumi\u00e8res\u201d outside the London location of Sotheby\u2019s, whose building was decorated to resemble the painting.",
+          "copyright": "C. Herscovici/Artists Rights Society (ARS), New York; Tristan Fewings/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02magritte1/merlin_202717980_ea5b6313-0653-4f86-9d96-b54a97ecf599-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers holding Ren\u00e9 Magritte\u2019s \u201cL\u2019empire des lumi\u00e8res\u201d outside the London location of Sotheby\u2019s, whose building was decorated to resemble the painting.",
+          "copyright": "C. Herscovici/Artists Rights Society (ARS), New York; Tristan Fewings/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02magritte1/02magritte1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers holding Ren\u00e9 Magritte\u2019s \u201cL\u2019empire des lumi\u00e8res\u201d outside the London location of Sotheby\u2019s, whose building was decorated to resemble the painting.",
+          "copyright": "C. Herscovici/Artists Rights Society (ARS), New York; Tristan Fewings/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3sztR72"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018The Long Walk\u2019 Review: A Ghostly Future in Laos",
+      "abstract": "This Laotian drama from Mattie Do presents a world where spirits linger on into a future that has been shaped by technology.",
+      "url": "https://www.nytimes.com/2022/03/02/movies/the-long-walk-review.html",
+      "uri": "nyt://article/2af3a56e-1d0b-5b38-9369-e8b726338823",
+      "byline": "By Teo Bugbee",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T18:10:06-05:00",
+      "created_date": "2022-03-02T18:10:06-05:00",
+      "published_date": "2022-03-02T18:10:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Long Walk (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Do, Mattie"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/the-long-walk-art/the-long-walk-art-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1104,
+          "width": 1658,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noutnapha Soydara and Por Silatsa in \u201cThe Long Walk.\u201d",
+          "copyright": "Yellow Veil Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/the-long-walk-art/the-long-walk-art-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noutnapha Soydara and Por Silatsa in \u201cThe Long Walk.\u201d",
+          "copyright": "Yellow Veil Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/the-long-walk-art/the-long-walk-art-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Noutnapha Soydara and Por Silatsa in \u201cThe Long Walk.\u201d",
+          "copyright": "Yellow Veil Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3HE30en"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "French Female Directors Continue Hot Streak at Rendez-Vous Festival",
+      "abstract": "The series returns in-person with an especially strong slate of work by Frenchwomen \u2014 fitting, given their run of honors at top festivals.",
+      "url": "https://www.nytimes.com/2022/03/02/movies/women-directors-rendez-vous-with-french-cinema.html",
+      "uri": "nyt://article/9a5f3acb-6fac-577c-a0c8-8639fa6f9aac",
+      "byline": "By Beatrice Loayza",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T17:59:01-05:00",
+      "created_date": "2022-03-02T17:59:01-05:00",
+      "published_date": "2022-03-02T17:59:01-05:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Movies",
+        "Women and Girls",
+        "Fire (2022) (Movie)",
+        "Robust (Movie)",
+        "Anais in Love (Movie)",
+        "Paris, 13th District (Movie)",
+        "A Tale of Love and Desire (Movie)",
+        "Secret Name (Movie)",
+        "Our Men (Movie)"
+      ],
+      "org_facet": [
+        "Film at Lincoln Center"
+      ],
+      "per_facet": [
+        "Denis, Claire",
+        "Meyer, Constance (1984- )",
+        "Bourgeois-Tacquet, Charline",
+        "Audiard, Jacques",
+        "Bouzid, Leyla (1984- )",
+        "Georges, Aurelia",
+        "Lang, Rachel (1984- )"
+      ],
+      "geo_facet": [
+        "France"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02RENDEZVOUS-NOTEBOOK-02/04RENDEZVOUS-NOTEBOOK-02-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vincent Lindon and Juliette Binoche in the series opener, \u201cFire,\u201d from Claire Denis.\u00a0",
+          "copyright": "Curiosa Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02RENDEZVOUS-NOTEBOOK-02/04RENDEZVOUS-NOTEBOOK-02-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vincent Lindon and Juliette Binoche in the series opener, \u201cFire,\u201d from Claire Denis.\u00a0",
+          "copyright": "Curiosa Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02RENDEZVOUS-NOTEBOOK-02/04RENDEZVOUS-NOTEBOOK-02-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vincent Lindon and Juliette Binoche in the series opener, \u201cFire,\u201d from Claire Denis.\u00a0",
+          "copyright": "Curiosa Films"
+        }
+      ],
+      "short_url": "https://nyti.ms/3tjUVX0"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Against the Ice\u2019 Review: Snow Buddies",
+      "abstract": "A hard-core first half is deflated by sleepy melodrama and a formulaic script in this adventure film about the Danish explorer Ejnar Mikkelsen.",
+      "url": "https://www.nytimes.com/2022/03/02/movies/against-the-ice-review.html",
+      "uri": "nyt://article/97027208-d0b5-542c-b246-3b2cd82e0d49",
+      "byline": "By Beatrice Loayza",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T17:42:38-05:00",
+      "created_date": "2022-03-02T17:42:38-05:00",
+      "published_date": "2022-03-02T17:42:38-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Against the Ice (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Coster-Waldau, Nikolaj",
+        "Flinth, Peter"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/against2/merlin_202797708_ecc14ddc-3066-41d4-9d62-3c99659d1734-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1366,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Havana Rose Liu in \u201cNo Exit.\u201d",
-          "copyright": "20th Century Studios"
+          "caption": "Nikolaj Coster-Waldau as Ejnar Mikkelsen and Joe Cole as Iver Iversen in \u201cAgainst the Ice.\u201d",
+          "copyright": "Lilja Jonsdottir/Netflix"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25no-exit-review/25no-exit-review-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/against2/merlin_202797708_ecc14ddc-3066-41d4-9d62-3c99659d1734-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Havana Rose Liu in \u201cNo Exit.\u201d",
-          "copyright": "20th Century Studios"
+          "caption": "Nikolaj Coster-Waldau as Ejnar Mikkelsen and Joe Cole as Iver Iversen in \u201cAgainst the Ice.\u201d",
+          "copyright": "Lilja Jonsdottir/Netflix"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25no-exit-review/25no-exit-review-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/against2/against2-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Havana Rose Liu in \u201cNo Exit.\u201d",
-          "copyright": "20th Century Studios"
+          "caption": "Nikolaj Coster-Waldau as Ejnar Mikkelsen and Joe Cole as Iver Iversen in \u201cAgainst the Ice.\u201d",
+          "copyright": "Lilja Jonsdottir/Netflix"
         }
       ],
-      "short_url": "https://nyti.ms/36GupPZ"
+      "short_url": "https://nyti.ms/3HBi10y"
     },
     {
-      "section": "movies",
+      "section": "books",
       "subsection": "",
-      "title": "Sally Kellerman, Oscar-Nominated \u2018MASH\u2019 Actress, Is Dead at 84",
-      "abstract": "Ms. Kellerman, who became a star in Robert Altman\u2019s dark satire, was known for her self-effacing comedy, a velvety voice and an ability to toggle between sultry and silly.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/sally-kellerman-dead.html",
-      "uri": "nyt://article/da7fafa6-f961-5a87-871e-5625505c80ec",
-      "byline": "By Christine Chung and Neil Genzlinger",
+      "title": "Diverse Artists to Write and Illustrate New Dr. Seuss-Inspired Books",
+      "abstract": "Each of the new books will be inspired by an unpublished sketch by Dr. Seuss, whose whimsical imagery has drawn new scrutiny since his estate pulled six titles from circulation last year.",
+      "url": "https://www.nytimes.com/2022/03/02/books/book-dr-seuss.html",
+      "uri": "nyt://article/3b8f4f68-d14d-580a-9781-37f77ef4c8a5",
+      "byline": "By Eduardo Medina",
       "item_type": "Article",
-      "updated_date": "2022-02-25T22:16:12-05:00",
-      "created_date": "2022-02-24T23:08:48-05:00",
-      "published_date": "2022-02-24T23:08:48-05:00",
+      "updated_date": "2022-03-02T18:05:49-05:00",
+      "created_date": "2022-03-02T17:34:59-05:00",
+      "published_date": "2022-03-02T17:34:59-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "M*A*S*H* (Movie)",
-        "Actors and Actresses",
-        "Deaths (Obituaries)",
-        "Movies",
-        "Music",
-        "Television"
+        "Books and Literature",
+        "Libraries and Librarians",
+        "Writing and Writers",
+        "Book Trade and Publishing",
+        "genre-books-childrens",
+        "Cancel Culture"
       ],
-      "org_facet": [],
+      "org_facet": [
+        "Dr Seuss Enterprises",
+        "University of California, San Diego"
+      ],
       "per_facet": [
-        "Kellerman, Sally"
+        "Geisel, Theodor Seuss"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/26/obituaries/26xp-kellerman-obit2/23kellerman-top-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1357,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Sally Kellerman at the 1989 Cannes Film Festival. In a memoir, she recalled wanting to be a performer from an early age: \u201cI must have come out of the womb singing and acting.\u201d",
-          "copyright": "Gamma-Rapho via Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/26/obituaries/26xp-kellerman-obit2/23kellerman-top-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Sally Kellerman at the 1989 Cannes Film Festival. In a memoir, she recalled wanting to be a performer from an early age: \u201cI must have come out of the womb singing and acting.\u201d",
-          "copyright": "Gamma-Rapho via Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/26/obituaries/26xp-kellerman-obit2/23kellerman-top-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Sally Kellerman at the 1989 Cannes Film Festival. In a memoir, she recalled wanting to be a performer from an early age: \u201cI must have come out of the womb singing and acting.\u201d",
-          "copyright": "Gamma-Rapho via Getty Images"
-        }
-      ],
-      "short_url": "https://nyti.ms/3pexRaY"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Creation Stories\u2019 Review: The Man Behind a Raucous Record Label",
-      "abstract": "A rock \u2019n\u2019 roll biopic about Creation Records, which gave us Oasis, My Bloody Valentine and more.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/creation-stories-review.html",
-      "uri": "nyt://article/901d32eb-521c-5c13-bab3-906589d69f15",
-      "byline": "By Glenn Kenny",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T00:19:57-05:00",
-      "created_date": "2022-02-24T08:58:43-05:00",
-      "published_date": "2022-02-24T08:58:43-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "Creation Stories (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Moran, Nick (Film Director)"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24creation-stories/merlin_202492482_387a071d-0a98-46f7-8499-068658c15c74-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/multimedia/02xp-drseuss-PROMO/02xp-drseuss-PROMO-superJumbo-v3.jpg",
           "format": "Super Jumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Jason Isaacs, left, and Ewen Bremner in \u201cCreation Stories,\u201d directed by Nick Moran.",
-          "copyright": "RLJE Films/Creation Stories Limited"
+          "caption": "An unpublished, untitled image from the archive of Ted Geisel will serve as inspiration for upcoming books.",
+          "copyright": "Ted Geisel/Dr. Seuss Enterprises"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24creation-stories/merlin_202492482_387a071d-0a98-46f7-8499-068658c15c74-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/multimedia/02xp-drseuss-PROMO/02xp-drseuss-PROMO-threeByTwoSmallAt2X-v3.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Jason Isaacs, left, and Ewen Bremner in \u201cCreation Stories,\u201d directed by Nick Moran.",
-          "copyright": "RLJE Films/Creation Stories Limited"
+          "caption": "An unpublished, untitled image from the archive of Ted Geisel will serve as inspiration for upcoming books.",
+          "copyright": "Ted Geisel/Dr. Seuss Enterprises"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24creation-stories/24creation-stories-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/multimedia/02xp-drseuss-PROMO/02xp-drseuss-PROMO-thumbLarge-v2.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Jason Isaacs, left, and Ewen Bremner in \u201cCreation Stories,\u201d directed by Nick Moran.",
-          "copyright": "RLJE Films/Creation Stories Limited"
+          "caption": "An unpublished, untitled image from the archive of Ted Geisel will serve as inspiration for upcoming books.",
+          "copyright": "Ted Geisel/Dr. Seuss Enterprises"
         }
       ],
-      "short_url": "https://nyti.ms/3HaVaZv"
+      "short_url": "https://nyti.ms/3Ca2dRl"
     },
     {
-      "section": "movies",
+      "section": "podcasts",
       "subsection": "",
-      "title": "\u2018The Desperate Hour\u2019 Review: An Exercise in Panic",
-      "abstract": "Naomi Watts plays a mother whose morning jog becomes a nightmare in this thriller from Phillip Noyce.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/the-desperate-hour-review.html",
-      "uri": "nyt://article/364669c4-93b6-521f-aa7f-4e7af6187235",
-      "byline": "By Wesley Morris",
+      "title": "Modern Love Podcast: You May Think You Know Your Parents",
+      "abstract": "That is, until you have a startling revelation about them in adulthood.",
+      "url": "https://www.nytimes.com/2022/03/02/podcasts/modern-love-parents-father-son.html",
+      "uri": "nyt://article/482b1815-bcf3-5891-a6ba-7c772adcc9b2",
+      "byline": "",
       "item_type": "Article",
-      "updated_date": "2022-02-25T12:05:54-05:00",
-      "created_date": "2022-02-24T07:00:07-05:00",
-      "published_date": "2022-02-24T07:00:07-05:00",
+      "updated_date": "2022-03-02T16:51:03-05:00",
+      "created_date": "2022-03-02T16:05:37-05:00",
+      "published_date": "2022-03-02T16:05:37-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Movies",
-        "The Desperate Hour (Movie)"
+        "Love (Emotion)",
+        "Children and Childhood",
+        "Parenting"
       ],
       "org_facet": [],
-      "per_facet": [
-        "Watts, Naomi",
-        "Noyce, Phillip"
-      ],
+      "per_facet": [],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/desperate1/desperate1-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1235,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Naomi Watts in \u201cThe Desperate Hour,\u201d directed by Phillip Noyce.",
-          "copyright": "Vertical Entertainment"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/desperate1/desperate1-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Naomi Watts in \u201cThe Desperate Hour,\u201d directed by Phillip Noyce.",
-          "copyright": "Vertical Entertainment"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/desperate1/desperate1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Naomi Watts in \u201cThe Desperate Hour,\u201d directed by Phillip Noyce.",
-          "copyright": "Vertical Entertainment"
-        }
-      ],
-      "short_url": "https://nyti.ms/3hhxXuc"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018The Burning Sea\u2019 Review: Smoke on the Water",
-      "abstract": "An oil-rig accident in the North Sea kicks off this well-acted, pleasantly predictable survival thriller.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/the-burning-sea-review.html",
-      "uri": "nyt://article/6d2f3563-5260-53fa-ad38-540640b8a31a",
-      "byline": "By Jeannette Catsoulis",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T00:23:14-05:00",
-      "created_date": "2022-02-24T07:00:07-05:00",
-      "published_date": "2022-02-24T07:00:07-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "The Burning Sea (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Andersen, John Andreas"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/burning1/merlin_202495281_e2459052-5d01-4978-97a2-8b8e76aa2252-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 858,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "From left, Halfdan Hallseth, Kristine Kujath Thorp and Rolf Kristian Larsen in \u201cThe Burning Sea.\u201d",
-          "copyright": "Magnet"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/burning1/burning1-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "From left, Halfdan Hallseth, Kristine Kujath Thorp and Rolf Kristian Larsen in \u201cThe Burning Sea.\u201d",
-          "copyright": "Magnet"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/burning1/burning1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "From left, Halfdan Hallseth, Kristine Kujath Thorp and Rolf Kristian Larsen in \u201cThe Burning Sea.\u201d",
-          "copyright": "Magnet"
-        }
-      ],
-      "short_url": "https://nyti.ms/3t29SwN"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Family Squares\u2019 Review: These People Are Way Off the Grid",
-      "abstract": "Secrets erupt and tensions are bared when the bereaved Worth family gathers on Zoom.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/family-squares-review.html",
-      "uri": "nyt://article/41e806db-0e90-5b7c-ab59-2d77a3fb9ca4",
-      "byline": "By Concepci\u00f3n de Le\u00f3n",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T00:19:37-05:00",
-      "created_date": "2022-02-24T07:00:06-05:00",
-      "published_date": "2022-02-24T07:00:06-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "Family Squares (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Martindale, Margo",
-        "Greer, Judy",
-        "Squibb, June",
-        "Laing, Stephanie (Film Director)"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24family-squares/merlin_202492806_4c698bdc-1d33-41ba-a0ce-07c1b2d49317-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/podcasts/00modernlove-promo-audioapp/00modernlove-promo-audioapp-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1152,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Several generations of the wacky Worths, in formation for a meeting in \u201cFamily Squares,\u201d a film by Stephanie Laing.",
-          "copyright": "Screen Media"
+          "caption": "",
+          "copyright": "Brian Rea"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24family-squares/24family-squares-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/podcasts/00modernlove-promo-audioapp/00modernlove-promo-audioapp-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Several generations of the wacky Worths, in formation for a meeting in \u201cFamily Squares,\u201d a film by Stephanie Laing.",
-          "copyright": "Screen Media"
+          "caption": "",
+          "copyright": "Brian Rea"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24family-squares/24family-squares-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/podcasts/00modernlove-promo-audioapp/00modernlove-promo-audioapp-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Several generations of the wacky Worths, in formation for a meeting in \u201cFamily Squares,\u201d a film by Stephanie Laing.",
-          "copyright": "Screen Media"
+          "caption": "",
+          "copyright": "Brian Rea"
         }
       ],
-      "short_url": "https://nyti.ms/3peyIIy"
+      "short_url": "https://nyti.ms/34aY3fm"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Careless Crime\u2019 Review: A Time Loop in Iran",
-      "abstract": "Shahram Mokri\u2019s film bends time and space as it considers events from 40 years earlier, when an arson attack on a movie theater set off the Iranian Revolution.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/careless-crime-review.html",
-      "uri": "nyt://article/64798213-eca0-5625-9e3e-8cead2c09298",
-      "byline": "By Devika Girish",
+      "section": "books",
+      "subsection": "review",
+      "title": "Reimagining Art, One Threesome at a Time",
+      "abstract": "In \u201cSpellbound by Marcel,\u201d Ruth Brandon explores the counterculture swirling around Marcel Duchamp and his circle.",
+      "url": "https://www.nytimes.com/2022/03/02/books/review/ruth-brandon-spellbound-by-marcel.html",
+      "uri": "nyt://article/fea6171f-59bb-53a8-a972-aa798b07427e",
+      "byline": "By Lauren Elkin",
       "item_type": "Article",
-      "updated_date": "2022-02-25T00:20:16-05:00",
-      "created_date": "2022-02-24T07:00:06-05:00",
-      "published_date": "2022-02-24T07:00:06-05:00",
+      "updated_date": "2022-03-02T17:22:27-05:00",
+      "created_date": "2022-03-02T14:00:02-05:00",
+      "published_date": "2022-03-02T14:00:02-05:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Art",
+        "Spellbound by Marcel: Duchamp, Love, and Art (Book)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Duchamp, Marcel",
+        "Wood, Beatrice",
+        "Brandon, Ruth",
+        "Roche, Henri-Pierre (1879-1959)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/02/23/books/review/00BRANDON-image/00BRANDON-image-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1372,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcel Duchamp, Francis Picabia and Beatrice Wood in New York, 1917.",
+          "copyright": "Photo12/UIG/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/02/23/books/review/00BRANDON-image/00BRANDON-image-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcel Duchamp, Francis Picabia and Beatrice Wood in New York, 1917.",
+          "copyright": "Photo12/UIG/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/02/23/books/review/00BRANDON-image/00BRANDON-image-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcel Duchamp, Francis Picabia and Beatrice Wood in New York, 1917.",
+          "copyright": "Photo12/UIG/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3toDAMz"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Review: A Los Angeles Troupe in Search of Choreographic Vision",
+      "abstract": "Bodytraffic\u2019s program at the Joyce Theater leaves you contemplating some problems of contemporary dance.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/dance/review-bodytraffic-joyce-theater.html",
+      "uri": "nyt://article/64583360-04fb-514a-bf54-e1f5db2c5461",
+      "byline": "By Brian Seibert",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T13:38:43-05:00",
+      "created_date": "2022-03-02T13:38:43-05:00",
+      "published_date": "2022-03-02T13:38:43-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Movies",
-        "Careless Crime (Movie)"
+        "Dancing"
       ],
-      "org_facet": [],
-      "per_facet": [
-        "Mokri, Shahram"
+      "org_facet": [
+        "Bodytraffic (Dance Co)",
+        "Joyce Theater"
       ],
+      "per_facet": [],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/24careless1/24careless1-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02bodytraffic-1/02bodytraffic-1-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Abolfazl Kahani in \u201cCareless Crime,\u201d from the Iranian director Shahram Mokri.",
-          "copyright": "Deaf Crocodile Films"
+          "caption": "Bodytraffic in Baye & Asa\u2019s \u201cThe One to Stay With.\u201d",
+          "copyright": "Todd Burnsed"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/24careless1/24careless1-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02bodytraffic-1/02bodytraffic-1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Abolfazl Kahani in \u201cCareless Crime,\u201d from the Iranian director Shahram Mokri.",
-          "copyright": "Deaf Crocodile Films"
+          "caption": "Bodytraffic in Baye & Asa\u2019s \u201cThe One to Stay With.\u201d",
+          "copyright": "Todd Burnsed"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/multimedia/24careless1/24careless1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02bodytraffic-1/02bodytraffic-1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Abolfazl Kahani in \u201cCareless Crime,\u201d from the Iranian director Shahram Mokri.",
-          "copyright": "Deaf Crocodile Films"
+          "caption": "Bodytraffic in Baye & Asa\u2019s \u201cThe One to Stay With.\u201d",
+          "copyright": "Todd Burnsed"
         }
       ],
-      "short_url": "https://nyti.ms/3pfJwpV"
+      "short_url": "https://nyti.ms/3sAezia"
     },
     {
-      "section": "movies",
+      "section": "arts",
       "subsection": "",
-      "title": "\u2018Servants\u2019 Review: Fighting for Purity of Faith",
-      "abstract": "Teenage priests in training resist the mingling of church and the Communist state in Ivan Ostrochovsky\u2019s drama.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/servants-review.html",
-      "uri": "nyt://article/74cb731a-7a53-5b39-a884-de6abc99dc00",
-      "byline": "By Natalia Winkelman",
+      "title": "Barry Bauman, Restoration Artist and Detective, Dies at 73",
+      "abstract": "A noted conservator, he peeled back paintings\u2019 hidden layers and sometimes uncovered fakes, most notably a portrait wrongly thought to be of Mary Todd Lincoln.",
+      "url": "https://www.nytimes.com/2022/03/02/arts/barry-bauman-dead.html",
+      "uri": "nyt://article/2c655e59-e9c0-5e54-9cad-9b650518fc51",
+      "byline": "By Katharine Q. Seelye",
       "item_type": "Article",
-      "updated_date": "2022-02-25T00:23:28-05:00",
-      "created_date": "2022-02-24T07:00:06-05:00",
-      "published_date": "2022-02-24T07:00:06-05:00",
+      "updated_date": "2022-03-02T16:49:26-05:00",
+      "created_date": "2022-03-02T12:40:41-05:00",
+      "published_date": "2022-03-02T12:40:41-05:00",
       "material_type_facet": "",
-      "kicker": "Critic\u2019s Pick",
+      "kicker": "",
       "des_facet": [
-        "Movies",
-        "Servants (Movie)"
+        "Deaths (Obituaries)",
+        "Art",
+        "Frauds and Swindling",
+        "Restoration and Renovation"
       ],
-      "org_facet": [],
+      "org_facet": [
+        "Art Institute of Chicago"
+      ],
       "per_facet": [
-        "Ostrochovsky, Ivan"
+        "Bauman, Barry (1948-2022)",
+        "Lincoln, Mary Todd"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/servants1/merlin_202493268_38c06794-e499-4ae6-bf7c-3610c9d0beda-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/03/obituaries/01Bauman1-sub-print1/01Bauman1-sub-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1365,
+          "height": 1597,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Samuel Skyva, left, with Samuel Polakovic in \u201cServants.\u201d",
-          "copyright": "Film Movement"
+          "caption": "The art conservator Barry Bauman in 2014. Over the course of his career he brought numerous faded canvases back to their former glory.",
+          "copyright": "John Hart/The Wisconsin State Journal"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/servants1/servants1-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/03/obituaries/01Bauman1-sub-print1/01Bauman1-sub-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Samuel Skyva, left, with Samuel Polakovic in \u201cServants.\u201d",
-          "copyright": "Film Movement"
+          "caption": "The art conservator Barry Bauman in 2014. Over the course of his career he brought numerous faded canvases back to their former glory.",
+          "copyright": "John Hart/The Wisconsin State Journal"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/servants1/servants1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/03/obituaries/01Bauman1-sub-print1/01Bauman1-sub-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Samuel Skyva, left, with Samuel Polakovic in \u201cServants.\u201d",
-          "copyright": "Film Movement"
+          "caption": "The art conservator Barry Bauman in 2014. Over the course of his career he brought numerous faded canvases back to their former glory.",
+          "copyright": "John Hart/The Wisconsin State Journal"
         }
       ],
-      "short_url": "https://nyti.ms/3vbQ6Sf"
+      "short_url": "https://nyti.ms/35pUmmD"
     },
     {
       "section": "movies",
       "subsection": "",
-      "title": "\u2018Hellbender\u2019 Review: The Family That Preys Together",
-      "abstract": "In a horror feature by a family of filmmakers, a young woman discovers her mother has been stifling her supernatural abilities.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/hellbender-review.html",
-      "uri": "nyt://article/aef867ea-9529-5c1c-a5a7-aeca7b3cdec5",
+      "title": "\u2018Hell Is Empty\u2019 Review: Sins of the Father",
+      "abstract": "In this bare-bones horror film, a young woman joins a cult and eventually defies its patriarch.",
+      "url": "https://www.nytimes.com/2022/03/02/movies/hell-is-empty-review.html",
+      "uri": "nyt://article/cf84e05e-2541-5c0f-aa9a-78c43e721e8b",
       "byline": "By Lena Wilson",
       "item_type": "Article",
-      "updated_date": "2022-02-25T00:19:34-05:00",
-      "created_date": "2022-02-24T07:00:06-05:00",
-      "published_date": "2022-02-24T07:00:06-05:00",
+      "updated_date": "2022-03-02T13:03:01-05:00",
+      "created_date": "2022-03-02T12:37:34-05:00",
+      "published_date": "2022-03-02T12:37:34-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
         "Movies",
-        "Hellbender (Movie)"
+        "Hell is Empty (Movie)"
       ],
-      "org_facet": [],
+      "org_facet": [
+        "Apple TV",
+        "Google Play"
+      ],
       "per_facet": [
-        "Adams, John (Film Director)",
-        "Poser, Toby",
-        "Adams, Zelda (Film Director)"
+        "Shaffer, Jo",
+        "Peppet, Spencer",
+        "Farrell, Nia",
+        "Mitchell, Travis (Actor)"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/hellbender1/merlin_202492950_9aa1fb2b-01ad-4cf1-937d-12e7ac1e65b4-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/hell1/merlin_203048256_61af7ab9-4901-48f3-a65b-b806b7203cfe-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1080,
-          "width": 1920,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Zelda Adams in \u201cHellbender.\u201d",
-          "copyright": "Shudder"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/hellbender1/hellbender1-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Zelda Adams in \u201cHellbender.\u201d",
-          "copyright": "Shudder"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/hellbender1/hellbender1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Zelda Adams in \u201cHellbender.\u201d",
-          "copyright": "Shudder"
-        }
-      ],
-      "short_url": "https://nyti.ms/3vbQ5Ob"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Butter\u2019 Review: High-Stakes Popularity",
-      "abstract": "Fed up with his classmates\u2019 contempt, an obese high school student decides he\u2019ll gorge himself to death on New Year\u2019s Eve.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/butter-review.html",
-      "uri": "nyt://article/7a6552d3-be2a-5115-948c-170f54e2b591",
-      "byline": "By Lisa Kennedy",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T00:20:19-05:00",
-      "created_date": "2022-02-24T07:00:05-05:00",
-      "published_date": "2022-02-24T07:00:05-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "BUTTER (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Sorvino, Mira",
-        "Williamson, Mykelti"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24butter-review/merlin_202492329_76bcbc35-c7bb-4938-86f9-766de7f50df0-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 612,
-          "width": 1200,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "From left, Adain Bradley, Alex Kersting and Jack Griffo in \u201cButter.\u201d",
-          "copyright": "Blue Fox Entertainment "
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24butter-review/24butter-review-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "From left, Adain Bradley, Alex Kersting and Jack Griffo in \u201cButter.\u201d",
-          "copyright": "Blue Fox Entertainment "
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/24/arts/24butter-review/24butter-review-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "From left, Adain Bradley, Alex Kersting and Jack Griffo in \u201cButter.\u201d",
-          "copyright": "Blue Fox Entertainment "
-        }
-      ],
-      "short_url": "https://nyti.ms/3haFOcX"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Big Gold Brick\u2019 Review: Sad Sack Makes Good",
-      "abstract": "Shaggy and dull, this film follows a slovenly writer who\u2019s taken in by the man who hit him with a car.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/big-gold-brick-review.html",
-      "uri": "nyt://article/f19e2a03-694b-52d3-9b57-c73778ebd636",
-      "byline": "By Nicolas Rapold",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T00:20:05-05:00",
-      "created_date": "2022-02-24T07:00:05-05:00",
-      "published_date": "2022-02-24T07:00:05-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "Big Gold Brick (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Cohen, Emory",
-        "Garcia, Andy (1956- )",
-        "Fox, Megan",
-        "Isaac, Oscar",
-        "Hale, Lucy (1989- )",
-        "Petsos, Brian"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/biggold1/merlin_202492164_efdb0d35-72ff-415b-93d7-c7612e2f810d-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1216,
-          "width": 1919,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Emory Cohen and Andy Garcia in \u201cBig Gold Brick.\u201d",
-          "copyright": "Alisha Wetherill/Samuel Goldwyn Films"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/biggold1/biggold1-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Emory Cohen and Andy Garcia in \u201cBig Gold Brick.\u201d",
-          "copyright": "Alisha Wetherill/Samuel Goldwyn Films"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/23/arts/biggold1/biggold1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Emory Cohen and Andy Garcia in \u201cBig Gold Brick.\u201d",
-          "copyright": "Alisha Wetherill/Samuel Goldwyn Films"
-        }
-      ],
-      "short_url": "https://nyti.ms/3v8BqTU"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Friends and Strangers\u2019 Review: G\u2019day, Mates",
-      "abstract": "In this funny, productively cryptic Australian feature, the characters are alternately abrasive and invasive.",
-      "url": "https://www.nytimes.com/2022/02/24/movies/friends-and-strangers-review.html",
-      "uri": "nyt://article/d37026e1-448d-50ea-8f37-168bb4413c13",
-      "byline": "By Ben Kenigsberg",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T00:19:56-05:00",
-      "created_date": "2022-02-24T07:00:04-05:00",
-      "published_date": "2022-02-24T07:00:04-05:00",
-      "material_type_facet": "",
-      "kicker": "Critic\u2019s Pick",
-      "des_facet": [
-        "Movies",
-        "Friends and Strangers (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Vaughan, James (1989- )"
-      ],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/friends1/merlin_202314195_93c7d37b-6693-42d3-a3d2-e603f7dee2b5-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 900,
+          "height": 681,
           "width": 1600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emma Diaz in \u201cFriends and Strangers.\u201d",
-          "copyright": "Metrograph"
+          "caption": "From left, Aya, Laura Resinger, Travis Mitchell, Spencer Peppet and Nia Farrell in \u201cHell Is Empty.\u201d",
+          "copyright": "1091 Pictures"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/friends1/friends1-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/hell1/hell1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
-          "height": 400,
+          "height": 401,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emma Diaz in \u201cFriends and Strangers.\u201d",
-          "copyright": "Metrograph"
+          "caption": "From left, Aya, Laura Resinger, Travis Mitchell, Spencer Peppet and Nia Farrell in \u201cHell Is Empty.\u201d",
+          "copyright": "1091 Pictures"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/friends1/friends1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/hell1/hell1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Emma Diaz in \u201cFriends and Strangers.\u201d",
-          "copyright": "Metrograph"
+          "caption": "From left, Aya, Laura Resinger, Travis Mitchell, Spencer Peppet and Nia Farrell in \u201cHell Is Empty.\u201d",
+          "copyright": "1091 Pictures"
         }
       ],
-      "short_url": "https://nyti.ms/3vfKfLO"
+      "short_url": "https://nyti.ms/3hvqwzF"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Shirley Hughes, Whose Books Depicted Children\u2019s Mini-Dramas, Dies at 94",
+      "abstract": "Beloved in her native England, she wrote and illustrated more than 70 books for children of all ages, with millions of copies sold worldwide. She was honored by the queen.",
+      "url": "https://www.nytimes.com/2022/03/02/books/shirley-hughes-dead.html",
+      "uri": "nyt://article/841bd63d-dab7-55dc-b3da-6d27b3298f4f",
+      "byline": "By Jan Benzel",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T13:36:57-05:00",
+      "created_date": "2022-03-02T11:52:28-05:00",
+      "published_date": "2022-03-02T11:52:28-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Books and Literature",
+        "Writing and Writers",
+        "Children and Childhood"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hughes, Shirley"
+      ],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/obituaries/02hughes-01/merlin_203107680_ddffb8df-cd31-4d96-b194-bed1d14f56d6-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1639,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shirley Hughes in 1982. She believed that children should be allowed to be bored and not pressured to read.\u00a0\u201cIt\u2019s not a competition,\u201d she said, \u201cthough you\u2019d think it was the way some parents go on.\u201d",
+          "copyright": "Susan Debra Windmiller/Fairfax Media via Getty Images)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/obituaries/02hughes-01/02hughes-01-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shirley Hughes in 1982. She believed that children should be allowed to be bored and not pressured to read.\u00a0\u201cIt\u2019s not a competition,\u201d she said, \u201cthough you\u2019d think it was the way some parents go on.\u201d",
+          "copyright": "Susan Debra Windmiller/Fairfax Media via Getty Images)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/obituaries/02hughes-01/merlin_203107680_ddffb8df-cd31-4d96-b194-bed1d14f56d6-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shirley Hughes in 1982. She believed that children should be allowed to be bored and not pressured to read.\u00a0\u201cIt\u2019s not a competition,\u201d she said, \u201cthough you\u2019d think it was the way some parents go on.\u201d",
+          "copyright": "Susan Debra Windmiller/Fairfax Media via Getty Images)"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pycotD"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "NoViolet Bulawayo Believes Freedom Begins With Imagination",
+      "abstract": "For her 2013 debut novel, Bulawayo was the first Black woman from Africa to become a finalist for the Booker Prize. Her new novel, \u201cGlory,\u201d is a story about a nation on the cusp of revolution.",
+      "url": "https://www.nytimes.com/2022/03/02/books/noviolet-bulawayo-glory.html",
+      "uri": "nyt://article/0999ab81-a0e7-5250-a36f-457c22d6a330",
+      "byline": "By Abdi Latif Dahir",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T15:10:40-05:00",
+      "created_date": "2022-03-02T11:38:27-05:00",
+      "published_date": "2022-03-02T11:38:27-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Glory (2022) (Book)",
+        "Man Booker Prize",
+        "Books and Literature",
+        "Writing and Writers",
+        "Content Type: Personal Profile",
+        "Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bulawayo, NoViolet",
+        "Mugabe, Robert"
+      ],
+      "geo_facet": [
+        "Zimbabwe"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/books/02Bulawayo3/merlin_202993233_c6f1f4b8-dffc-431f-9de4-ece265d6bc63-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "NoViolet Bulawayo wrote her new novel after Robert Mugabe, Zimbabwe\u2019s longtime president, was deposed.\u00a0\u201cWriting it felt like responding to a call of duty,\u201d she said.",
+          "copyright": "Zinyange Auntony for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/books/02Bulawayo3/merlin_202993233_c6f1f4b8-dffc-431f-9de4-ece265d6bc63-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "NoViolet Bulawayo wrote her new novel after Robert Mugabe, Zimbabwe\u2019s longtime president, was deposed.\u00a0\u201cWriting it felt like responding to a call of duty,\u201d she said.",
+          "copyright": "Zinyange Auntony for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/books/02Bulawayo3/merlin_202993233_c6f1f4b8-dffc-431f-9de4-ece265d6bc63-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "NoViolet Bulawayo wrote her new novel after Robert Mugabe, Zimbabwe\u2019s longtime president, was deposed.\u00a0\u201cWriting it felt like responding to a call of duty,\u201d she said.",
+          "copyright": "Zinyange Auntony for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3MenA8x"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Autofiction for People Who Think They\u2019re Sick of It",
+      "abstract": "Claire-Louise Bennett\u2019s second novel, \u201cCheckout 19,\u201d centers on the passionate collision between reader, writer and book.",
+      "url": "https://www.nytimes.com/2022/03/02/books/review/claire-louise-bennett-checkout-19.html",
+      "uri": "nyt://article/5231ed35-54ae-595d-acea-c3a4c61e6c22",
+      "byline": "By Naomi Huffman",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T10:00:02-05:00",
+      "created_date": "2022-03-02T10:00:02-05:00",
+      "published_date": "2022-03-02T10:00:02-05:00",
+      "material_type_facet": "",
+      "kicker": "Fiction",
+      "des_facet": [
+        "Books and Literature",
+        "Checkout 19 (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bennett, Claire-Louise"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/13/books/review/1Huffman-Checkout19/1Huffman-Checkout19-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1179,
+          "width": 1766,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Mildenberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/13/books/review/1Huffman-Checkout19/1Huffman-Checkout19-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Mildenberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/13/books/review/1Huffman-Checkout19/1Huffman-Checkout19-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Mildenberg"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pwMnuS"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "This Memoir About the Contradictions of Grief Plays by Its Own Rules",
+      "abstract": "The novelist Kathryn Davis\u2019s personal and time-shuffling new book, \u201cAurelia, Aur\u00e9lia,\u201d is about the death of her husband.",
+      "url": "https://www.nytimes.com/2022/03/02/books/review-aurelia-aurelia-memoir-kathryn-davis.html",
+      "uri": "nyt://article/81428c83-07d5-5a44-a206-23b2c8491bea",
+      "byline": "By Molly Young",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T10:54:06-05:00",
+      "created_date": "2022-03-02T05:00:08-05:00",
+      "published_date": "2022-03-02T05:00:08-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Content Type: Personal Profile",
+        "Death and Dying",
+        "Aurelia, Aurelia (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Davis, Kathryn"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/03/books/01BOOKDAVIS1/01BOOKDAVIS1-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1401,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/03/books/01BOOKDAVIS1/01BOOKDAVIS1-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/03/books/01BOOKDAVIS1/01BOOKDAVIS1-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3IAm8Lq"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Stephen Colbert Grades Biden\u2019s First State of the Union Address",
+      "abstract": "\u201cMany lawmakers wore the colors of the Ukrainian flag, blue and yellow,\u201d Colbert said. \u201cIt\u2019s a show of solidarity not seen since the last \u2018Minions\u2019 movie.\u201d",
+      "url": "https://www.nytimes.com/2022/03/02/arts/television/stephen-colbert-biden-state-of-the-union.html",
+      "uri": "nyt://article/fdf097a0-60a2-5491-86ec-847d147e3ef7",
+      "byline": "By Trish Bendix",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T14:58:07-05:00",
+      "created_date": "2022-03-02T03:53:26-05:00",
+      "published_date": "2022-03-02T03:53:26-05:00",
+      "material_type_facet": "",
+      "kicker": "Best of Late Night",
+      "des_facet": [
+        "Television",
+        "The Daily Show with Trevor Noah (TV Program)",
+        "Jimmy Kimmel Live (TV Program)",
+        "The Tonight Show (TV Program)",
+        "Late Show with Stephen Colbert (TV Program)",
+        "Late Night with Seth Meyers (TV Program)",
+        "The Late Late Show with James Corden (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Noah, Trevor (1984- )",
+        "Kimmel, Jimmy",
+        "Fallon, Jimmy",
+        "Colbert, Stephen",
+        "Meyers, Seth",
+        "Corden, James (1978- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02latenight/02latenight-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 795,
+          "width": 1431,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen Colbert called President Biden\u2019s address \u201ca roller-coaster ride of rip-roaring reasonableness.\u201d",
+          "copyright": "CBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02latenight/02latenight-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen Colbert called President Biden\u2019s address \u201ca roller-coaster ride of rip-roaring reasonableness.\u201d",
+          "copyright": "CBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/02latenight/02latenight-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen Colbert called President Biden\u2019s address \u201ca roller-coaster ride of rip-roaring reasonableness.\u201d",
+          "copyright": "CBS"
+        }
+      ],
+      "short_url": "https://nyti.ms/36ZPbKJ"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "\u2018Out of Time\u2019 Review: Once Sidelined, Now Taking Center Stage",
+      "abstract": "Five Asian American actors, all over 60, deliver monologues that touch on grief and heritage, on adult children and cultural cancellation.",
+      "url": "https://www.nytimes.com/2022/03/01/theater/out-of-time-review-public-theater.html",
+      "uri": "nyt://article/1f7d78b1-8d43-5ee8-b7d4-01a72c5a0017",
+      "byline": "By Laura Collins-Hughes",
+      "item_type": "Article",
+      "updated_date": "2022-03-01T22:57:39-05:00",
+      "created_date": "2022-03-01T22:00:06-05:00",
+      "published_date": "2022-03-01T22:00:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Out of Time (Play)"
+      ],
+      "org_facet": [
+        "National Asian-American Theater Co",
+        "Public Theater"
+      ],
+      "per_facet": [
+        "Backhaus, Jaclyn (Playwright)",
+        "Chanse, Sam",
+        "Chung, Mia (Playwright)",
+        "Iizuka, Naomi",
+        "Katigbak, Mia",
+        "Kubota, Glenn"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/01outoftime/merlin_202729158_080b4cec-f2e0-4435-8954-7c0e8ccc279e-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Page Leong in Anna Ouyang Moench\u2019s \u201cMy Documentary,\u201d one of the five monologues that make up \u201cOut of Time,\u201d now at the Public Theater in Manhattan.\u00a0",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/01outoftime/merlin_202729158_080b4cec-f2e0-4435-8954-7c0e8ccc279e-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Page Leong in Anna Ouyang Moench\u2019s \u201cMy Documentary,\u201d one of the five monologues that make up \u201cOut of Time,\u201d now at the Public Theater in Manhattan.\u00a0",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/01outoftime/merlin_202729158_080b4cec-f2e0-4435-8954-7c0e8ccc279e-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Page Leong in Anna Ouyang Moench\u2019s \u201cMy Documentary,\u201d one of the five monologues that make up \u201cOut of Time,\u201d now at the Public Theater in Manhattan.\u00a0",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3sxb6kr"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "The Past Pushes Back in 2 Shows With Contemporary Blackness in Mind",
+      "abstract": "New productions of \u201cThe Merchant of Venice\u201d and \u201cBlack No More\u201d aim to reflect our current racial politics. The results are uneven.",
+      "url": "https://www.nytimes.com/2022/03/01/theater/merchant-of-venice-black-no-more.html",
+      "uri": "nyt://article/00093005-4b4a-5df6-8ce5-df23d2c47d35",
+      "byline": "By Maya Phillips",
+      "item_type": "Article",
+      "updated_date": "2022-03-01T20:05:42-05:00",
+      "created_date": "2022-03-01T20:05:42-05:00",
+      "published_date": "2022-03-01T20:05:42-05:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Black People",
+        "Race and Ethnicity",
+        "Theater",
+        "Anti-Semitism",
+        "Black No More (Book)",
+        "The Merchant of Venice (Play)"
+      ],
+      "org_facet": [
+        "New Group Theater Co",
+        "Polonsky Shakespeare Center",
+        "Signature Center",
+        "Theater for a New Audience"
+      ],
+      "per_facet": [
+        "Arbus, Arin",
+        "Elliott, Scott",
+        "Jones, Bill T",
+        "Ridley, John"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/02/28/arts/28merchant-notebook2/merlin_202084950_8d236161-bf5d-4a13-9b6f-41007bd02897-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1994,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Douglas Thompson, center left, as Shylock and Alfredo Narciso (seated) as Antonio in the Theater for a New Audience production of \u201cThe Merchant of Venice.\u201d\u00a0",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/02/28/arts/28merchant-notebook2/28merchant-notebook2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Douglas Thompson, center left, as Shylock and Alfredo Narciso (seated) as Antonio in the Theater for a New Audience production of \u201cThe Merchant of Venice.\u201d\u00a0",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/02/28/arts/28merchant-notebook2/28merchant-notebook2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Douglas Thompson, center left, as Shylock and Alfredo Narciso (seated) as Antonio in the Theater for a New Audience production of \u201cThe Merchant of Venice.\u201d\u00a0",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3szhZC4"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "The Enigma of Big Thief",
+      "abstract": "A conversation about the space the breakout Brooklyn band occupies in contemporary indie-rock circles, and its latest album.",
+      "url": "https://www.nytimes.com/2022/03/01/arts/music/popcast-big-thief.html",
+      "uri": "nyt://article/3969e35b-cd44-590e-9482-c0ea8d973de9",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T12:51:11-05:00",
+      "created_date": "2022-03-01T19:14:58-05:00",
+      "published_date": "2022-03-01T19:14:58-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pop and Rock Music",
+        "audio-neutral-informative",
+        "Content Type: Personal Profile",
+        "Dragon New Warm Mountain I Believe In You (Album)"
+      ],
+      "org_facet": [
+        "Big Thief (Music Group)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01popcast/01popcast-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 937,
+          "width": 1280,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexa Viscius"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01popcast/01popcast-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexa Viscius"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01popcast/01popcast-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexa Viscius"
+        }
+      ],
+      "short_url": "https://nyti.ms/3szKdg3"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Ned Eisenberg, New York Actor Known for \u2018Law & Order,\u2019 Dies at 65",
+      "abstract": "Eisenberg performed in several Broadway productions between appearances as the defense lawyer Roger Kressler on NBC\u2019s long-running police drama \u201cLaw & Order: Special Victims Unit.\u201d",
+      "url": "https://www.nytimes.com/2022/03/01/arts/television/ned-eisenberg-dead.html",
+      "uri": "nyt://article/8dfb0bef-e45a-5d33-bc07-aa6619cc621f",
+      "byline": "By Johnny Diaz",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T08:13:04-05:00",
+      "created_date": "2022-03-01T17:41:39-05:00",
+      "published_date": "2022-03-01T17:41:39-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Theater",
+        "Television",
+        "Law & Order: Special Victims Unit (TV Program)",
+        "Mare of Easttown (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Eisenberg, Ned"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/lens/01xp-eisenberg/01xp-eisenberg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 884,
+          "width": 1325,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ned Eisenberg as Roger Kressler in \u201cLaw & Order: Special Victims Unit.\u201d",
+          "copyright": "Will Hart/NBC, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/lens/01xp-eisenberg/01xp-eisenberg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ned Eisenberg as Roger Kressler in \u201cLaw & Order: Special Victims Unit.\u201d",
+          "copyright": "Will Hart/NBC, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/lens/01xp-eisenberg/01xp-eisenberg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ned Eisenberg as Roger Kressler in \u201cLaw & Order: Special Victims Unit.\u201d",
+          "copyright": "Will Hart/NBC, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3psXpRI"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "The Best Movies and TV Shows Coming to HBO, Hulu, Apple TV+ and More in March",
+      "abstract": "Every month, streaming services add movies and TV shows to their libraries. Here are our picks for some of March\u2019s most promising new titles.",
+      "url": "https://www.nytimes.com/2022/03/01/arts/television/hbo-hulu-amazon-march.html",
+      "uri": "nyt://article/9cd2f915-2a61-5095-b0c7-287575c68727",
+      "byline": "By Noel Murray",
+      "item_type": "Article",
+      "updated_date": "2022-03-02T13:09:00-05:00",
+      "created_date": "2022-03-01T17:36:28-05:00",
+      "published_date": "2022-03-01T17:36:28-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television"
+      ],
+      "org_facet": [
+        "Apple TV Plus",
+        "Disney Plus",
+        "HBO Max",
+        "Hulu.com",
+        "Amazon.com Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01streaming1/merlin_203011866_556e592f-4c11-407c-b39c-7fd9a06cebd7-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1463,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John C. Reilly, Quincy Isaiah and Jason Clarke in \u201cWinning Time: The Rise of the Lakers Dynasty\u201d",
+          "copyright": "HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01streaming1/merlin_203011866_556e592f-4c11-407c-b39c-7fd9a06cebd7-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John C. Reilly, Quincy Isaiah and Jason Clarke in \u201cWinning Time: The Rise of the Lakers Dynasty\u201d",
+          "copyright": "HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/01streaming1/merlin_203011866_556e592f-4c11-407c-b39c-7fd9a06cebd7-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John C. Reilly, Quincy Isaiah and Jason Clarke in \u201cWinning Time: The Rise of the Lakers Dynasty\u201d",
+          "copyright": "HBO"
+        }
+      ],
+      "short_url": "https://nyti.ms/3K7CMCr"
     },
     {
       "section": "business",
       "subsection": "media",
-      "title": "IMAX Looks Beyond Movies to Live Events",
-      "abstract": "To combat the decline of theatergoing, the large-format cinema company will show events like concerts, stand-up comedy and e-sports tournaments.",
-      "url": "https://www.nytimes.com/2022/02/23/business/media/imax-movies-live-events.html",
-      "uri": "nyt://article/372632c0-72ad-5111-b820-fc1ea7a99903",
-      "byline": "By Brooks Barnes",
+      "title": "Michele McNally, Who Elevated Times Photography, Dies at 66",
+      "abstract": "The paper won six Pulitzer Prizes for photography during her tenure as its director of photography and a member of the newsroom\u2019s top management.",
+      "url": "https://www.nytimes.com/2022/03/01/business/media/michele-mcnally-dead.html",
+      "uri": "nyt://article/57e79a80-e793-5f58-a4af-0c353c2228f5",
+      "byline": "By Sam Roberts",
       "item_type": "Article",
-      "updated_date": "2022-02-24T00:07:09-05:00",
-      "created_date": "2022-02-23T16:19:48-05:00",
-      "published_date": "2022-02-23T16:19:48-05:00",
+      "updated_date": "2022-03-02T14:47:43-05:00",
+      "created_date": "2022-03-01T14:44:26-05:00",
+      "published_date": "2022-03-01T14:44:26-05:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Movies",
-        "Imax (Movie Process)",
-        "Company Reports"
+        "Photography",
+        "News and News Media",
+        "Deaths (Obituaries)",
+        "Pulitzer Prizes"
       ],
       "org_facet": [
-        "IMAX Corporation"
+        "New York Times"
       ],
       "per_facet": [
-        "Gelfond, Richard L",
-        "West, Kanye"
+        "McNally, Michele"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/23/business/23imax-01/merlin_202424154_616ea24a-3a01-4cd9-923e-baf533afb7e1-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/02/28/obituaries/29McNally/29McNally-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1955,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michele McNally in 2009. \u201cShe was a transformational figure in photojournalism,\u201d said Dean Baquet, The Times\u2019s executive editor.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/02/28/obituaries/29McNally/29McNally-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michele McNally in 2009. \u201cShe was a transformational figure in photojournalism,\u201d said Dean Baquet, The Times\u2019s executive editor.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/02/28/obituaries/29McNally/29McNally-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michele McNally in 2009. \u201cShe was a transformational figure in photojournalism,\u201d said Dean Baquet, The Times\u2019s executive editor.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/35eRlpi"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Sharon Wohlmuth, Photographer of Best-Selling \u2018Sisters,\u2019 Dies at 75",
+      "abstract": "Her images, paired with the words of Carol Saline, created a publishing sensation that led to the follow-up books \u201cMothers & Daughters\u201d and \u201cBest Friends.\u201d",
+      "url": "https://www.nytimes.com/2022/03/01/books/sharon-wohlmuth-dead.html",
+      "uri": "nyt://article/bbf4ae23-ba59-5e3a-bfe8-aebc37376b03",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2022-03-01T22:46:17-05:00",
+      "created_date": "2022-03-01T14:33:58-05:00",
+      "published_date": "2022-03-01T14:33:58-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Photography",
+        "Deaths (Obituaries)",
+        "Book Trade and Publishing"
+      ],
+      "org_facet": [
+        "Philadelphia Inquirer"
+      ],
+      "per_facet": [
+        "Wohlmuth, Sharon J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/obituaries/02Wohlmuth-print1/merlin_202999482_805139af-9c9b-4139-961d-1617129882b1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sharon Wohlmuth at an exhibition of her work in 2009. Major publishers declined to take on her \u201cSisters\u201d project, which became a best-seller.",
+          "copyright": "April Saul/Philadelphia Inquirer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/obituaries/02Wohlmuth-print1/merlin_202999482_805139af-9c9b-4139-961d-1617129882b1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sharon Wohlmuth at an exhibition of her work in 2009. Major publishers declined to take on her \u201cSisters\u201d project, which became a best-seller.",
+          "copyright": "April Saul/Philadelphia Inquirer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/03/02/obituaries/02Wohlmuth-print1/merlin_202999482_805139af-9c9b-4139-961d-1617129882b1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sharon Wohlmuth at an exhibition of her work in 2009. Major publishers declined to take on her \u201cSisters\u201d project, which became a best-seller.",
+          "copyright": "April Saul/Philadelphia Inquirer"
+        }
+      ],
+      "short_url": "https://nyti.ms/35hbB9M"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018The Batman\u2019 Review: Who\u2019ll Stop the Wayne?",
+      "abstract": "Robert Pattinson puts on the Batsuit and cats around with Zo\u00eb Kravitz in the latest attempt to reimagine the Caped Crusader.",
+      "url": "https://www.nytimes.com/2022/03/01/movies/the-batman-review.html",
+      "uri": "nyt://article/c67be998-326a-5ed6-b5b3-b1ab3b8eda1a",
+      "byline": "By A.O. Scott",
+      "item_type": "Article",
+      "updated_date": "2022-03-01T13:34:48-05:00",
+      "created_date": "2022-03-01T13:34:48-05:00",
+      "published_date": "2022-03-01T13:34:48-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Batman (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Reeves, Matt (1966- )",
+        "Pattinson, Robert",
+        "Kravitz, Zoe"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/batman1/batman1-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Kanye West performing at a benefit concert in December, which was simulcast in IMAX theaters.",
-          "copyright": "DONDA"
+          "caption": "Robert Pattinson in \u201cThe Batman,\u201d directed by Matt Reeves.",
+          "copyright": " Jonathan Olley/Warner Bros. Pictures"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/23/business/23imax-01/merlin_202424154_616ea24a-3a01-4cd9-923e-baf533afb7e1-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/batman1/batman1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Kanye West performing at a benefit concert in December, which was simulcast in IMAX theaters.",
-          "copyright": "DONDA"
+          "caption": "Robert Pattinson in \u201cThe Batman,\u201d directed by Matt Reeves.",
+          "copyright": " Jonathan Olley/Warner Bros. Pictures"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/23/business/23imax-01/merlin_202424154_616ea24a-3a01-4cd9-923e-baf533afb7e1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/01/arts/batman1/batman1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Kanye West performing at a benefit concert in December, which was simulcast in IMAX theaters.",
-          "copyright": "DONDA"
+          "caption": "Robert Pattinson in \u201cThe Batman,\u201d directed by Matt Reeves.",
+          "copyright": " Jonathan Olley/Warner Bros. Pictures"
         }
       ],
-      "short_url": "https://nyti.ms/3v6QrWi"
+      "short_url": "https://nyti.ms/3vvb9PV"
     },
     {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Ride the Eagle,\u2019 \u2018Bergman Island\u2019 and More Streaming Gems",
-      "abstract": "Put these off-the-radar movies on your radar.",
-      "url": "https://www.nytimes.com/2022/02/22/movies/ride-the-eagle-bergman-island-streaming-recommendations.html",
-      "uri": "nyt://article/bac59f04-13c2-55dc-8240-c7decf9fe4a6",
-      "byline": "By Jason Bailey",
+      "section": "arts",
+      "subsection": "music",
+      "title": "Review: \u2018Don Carlos\u2019 Finally Brings French Verdi to the Met",
+      "abstract": "Yannick N\u00e9zet-S\u00e9guin led the sprawling masterpiece, which is being presented by the company for the first time in its original language.",
+      "url": "https://www.nytimes.com/2022/03/01/arts/music/met-opera-verdi-don-carlos-review.html",
+      "uri": "nyt://article/0cf81a35-67d9-5115-a96d-c6930ed9c4a1",
+      "byline": "By Zachary Woolfe",
       "item_type": "Article",
-      "updated_date": "2022-02-22T13:24:32-05:00",
-      "created_date": "2022-02-22T12:14:07-05:00",
-      "published_date": "2022-02-22T12:14:07-05:00",
-      "material_type_facet": "",
-      "kicker": "Beyond the Algorithm",
-      "des_facet": [
-        "Movies",
-        "Bergman Island (Movie)",
-        "Detroit (Movie)",
-        "In the Same Breath (Movie)",
-        "Presenting Princess Shaw (Movie)",
-        "Ride the Eagle (Movie)",
-        "The B-Side: Elsa Dorfman's Portrait Photography (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/29/arts/29ride-the-eagle/merlin_191095917_a77c5331-f6c5-4db4-a27d-914926de08f7-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1152,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Jake Johnson as Leif in \u201cRide the Eagle,\u201d a film he co-wrote with the director Trent O\u2019Donnell.",
-          "copyright": "Decal"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2021/07/29/arts/29ride-the-eagle/29ride-the-eagle-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Jake Johnson as Leif in \u201cRide the Eagle,\u201d a film he co-wrote with the director Trent O\u2019Donnell.",
-          "copyright": "Decal"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2021/07/29/arts/29ride-the-eagle/29ride-the-eagle-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Jake Johnson as Leif in \u201cRide the Eagle,\u201d a film he co-wrote with the director Trent O\u2019Donnell.",
-          "copyright": "Decal"
-        }
-      ],
-      "short_url": "https://nyti.ms/3IrT1Kt"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Mr. Bachmann and His Class\u2019 Review: Learning From the Best",
-      "abstract": "Maria Speth\u2019s enthralling documentary spends a year in the classroom of an unconventional teacher in a German industrial town.",
-      "url": "https://www.nytimes.com/2022/02/20/movies/mr-bachmann-and-his-class-review.html",
-      "uri": "nyt://article/a5850f44-6617-5ccb-9111-4112375d6129",
-      "byline": "By A.O. Scott",
-      "item_type": "Article",
-      "updated_date": "2022-02-25T12:31:56-05:00",
-      "created_date": "2022-02-20T17:17:31-05:00",
-      "published_date": "2022-02-20T17:17:31-05:00",
+      "updated_date": "2022-03-02T12:40:34-05:00",
+      "created_date": "2022-03-01T12:37:17-05:00",
+      "published_date": "2022-03-01T12:37:17-05:00",
       "material_type_facet": "",
       "kicker": "Critic\u2019s Pick",
       "des_facet": [
-        "Documentary Films and Programs",
-        "Mr. Bachmann and His Class (Movie)",
-        "Education (K-12)",
-        "Immigration and Emigration",
-        "Content Type: Personal Profile",
-        "Teachers and School Employees"
+        "Opera",
+        "Don Carlo (Opera)",
+        "Don Carlos (Opera)"
       ],
-      "org_facet": [],
+      "org_facet": [
+        "Metropolitan Opera"
+      ],
       "per_facet": [
-        "Speth, Maria",
-        "Bachmann, Dieter"
-      ],
-      "geo_facet": [
-        "Germany",
-        "Stadtallendorf (Germany)"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/20mr-bachmann-review/merlin_202491156_9a247f77-7686-493b-b52a-43acbc4e6123-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 981,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Dieter Bachmann, observed by the filmmaker Maria Speth, in \u201cMr. Bachmann and His Class.\u201d",
-          "copyright": "MUBI"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/20mr-bachmann-review/20mr-bachmann-review-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Dieter Bachmann, observed by the filmmaker Maria Speth, in \u201cMr. Bachmann and His Class.\u201d",
-          "copyright": "MUBI"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/25/arts/20mr-bachmann-review/20mr-bachmann-review-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Dieter Bachmann, observed by the filmmaker Maria Speth, in \u201cMr. Bachmann and His Class.\u201d",
-          "copyright": "MUBI"
-        }
-      ],
-      "short_url": "https://nyti.ms/3s3Yi4R"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018Being a Woman is Full of Horror\u2019: Female Directors Discuss Their Craft",
-      "abstract": "A new wave of filmmakers from Britain and Ireland is breaking into the horror genre with scary debuts like \u201cSaint Maud\u201d and \u201cA Banquet.\u201d",
-      "url": "https://www.nytimes.com/2022/02/18/movies/horror-women-directors.html",
-      "uri": "nyt://article/5ab2ebec-e972-508a-8dd7-502bee1b4cae",
-      "byline": "By Alex Marshall",
-      "item_type": "Article",
-      "updated_date": "2022-02-22T23:17:33-05:00",
-      "created_date": "2022-02-18T12:30:15-05:00",
-      "published_date": "2022-02-18T12:30:15-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "Women and Girls",
-        "A Banquet (Movie)",
-        "You Are Not My Mother (Movie)",
-        "She Will (Movie)",
-        "Censor (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Paxton, Ruth (Film Director)",
-        "Bailey-Bond, Prano",
-        "Dolan, Kate (Film Director)",
-        "Colbert, Charlotte (Film Director)"
-      ],
-      "geo_facet": [
-        "Great Britain",
-        "Ireland"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/18female-horror/18female-horror-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1069,
-          "width": 1900,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Clockwise from right: scenes from \u201cA Banquet,\u201d \u201cYou Are Not My Mother,\u201d \u201cCensor\u201d and \u201cShe Will.\u201d",
-          "copyright": "IFC Midnight; Magnet Releasing"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/18female-horror/18female-horror-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Clockwise from right: scenes from \u201cA Banquet,\u201d \u201cYou Are Not My Mother,\u201d \u201cCensor\u201d and \u201cShe Will.\u201d",
-          "copyright": "IFC Midnight; Magnet Releasing"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/27/arts/18female-horror/18female-horror-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Clockwise from right: scenes from \u201cA Banquet,\u201d \u201cYou Are Not My Mother,\u201d \u201cCensor\u201d and \u201cShe Will.\u201d",
-          "copyright": "IFC Midnight; Magnet Releasing"
-        }
-      ],
-      "short_url": "https://nyti.ms/36iQwvv"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "Five Science Fiction Movies to Stream Now",
-      "abstract": "This month\u2019s picks include characters fighting for survival without technology in one film, and mixing it up with a sentient car in another.",
-      "url": "https://www.nytimes.com/2022/02/18/movies/sci-fi-movies-stream-now.html",
-      "uri": "nyt://article/9986dd33-8d06-5195-b7d6-8a90f9c0ff82",
-      "byline": "By Elisabeth Vincentelli",
-      "item_type": "Article",
-      "updated_date": "2022-02-18T16:22:57-05:00",
-      "created_date": "2022-02-18T11:00:05-05:00",
-      "published_date": "2022-02-18T11:00:05-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "Science Fiction",
-        "This World Alone (Movie)",
-        "Last Survivors (Movie)",
-        "Rising Wolf (Movie)",
-        "King Car (Movie)",
-        "I'm Your Man (2021) (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/17/arts/thisworldalone1/thisworldalone1-superJumbo.png",
-          "format": "Super Jumbo",
-          "height": 1105,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Belle Adams in \u201cThis World Alone.\u201d",
-          "copyright": "1091 Pictures"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/17/arts/thisworldalone1/thisworldalone1-threeByTwoSmallAt2X.png",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Belle Adams in \u201cThis World Alone.\u201d",
-          "copyright": "1091 Pictures"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/02/17/arts/thisworldalone1/thisworldalone1-thumbLarge.png",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Belle Adams in \u201cThis World Alone.\u201d",
-          "copyright": "1091 Pictures"
-        }
-      ],
-      "short_url": "https://nyti.ms/3HWXSmq"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "\u2018The Automat,\u2019 Where Dining Out Was D.I.Y.",
-      "abstract": "The director Lisa Hurwitz discusses the history of the Horn & Hardart chain of restaurants, which offered comfort food in coin-operated glass boxes.",
-      "url": "https://www.nytimes.com/2022/02/18/movies/automat-movie-interview.html",
-      "uri": "nyt://article/d5e78905-a52d-5a2a-abc8-7d65e14b83e2",
-      "byline": "By Nicolas Rapold",
-      "item_type": "Article",
-      "updated_date": "2022-02-18T16:46:42-05:00",
-      "created_date": "2022-02-18T09:00:04-05:00",
-      "published_date": "2022-02-18T09:00:04-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Documentary Films and Programs",
-        "The Automat (Movie)",
-        "Cafeterias"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Brooks, Mel",
-        "Hurwitz, Lisa (Filmmaker)"
+        "Verdi, Giuseppe",
+        "Nezet-Seguin, Yannick",
+        "Yoncheva, Sonya",
+        "Polenzani, Matthew",
+        "McVicar, David",
+        "Owens, Eric (1970- )",
+        "Barton, Jamie",
+        "Dupuis, Etienne"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/19/arts/automat-interview1/merlin_201892206_b6152079-fadc-48b8-b160-295362ceca4e-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/01metopera-1/merlin_202883424_e91f3091-12bc-40d5-b5e8-192d4732f42f-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1418,
+          "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Audrey Hepburn at a Horn & Hardart restaurant. The dining chain is the subject of the documentary \u201cThe Automat.\u201d",
-          "copyright": "Lawrence Fried/Film Forum"
+          "caption": "Sonya Yoncheva, left, as \u00c9lisabeth and Matthew Polenzani in the title role in a new production of Verdi\u2019s \u201cDon Carlos\u201d at the Metropolitan Opera.",
+          "copyright": "Sara Krulwich/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/19/arts/automat-interview1/merlin_201892206_b6152079-fadc-48b8-b160-295362ceca4e-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/01metopera-1/merlin_202883424_e91f3091-12bc-40d5-b5e8-192d4732f42f-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Audrey Hepburn at a Horn & Hardart restaurant. The dining chain is the subject of the documentary \u201cThe Automat.\u201d",
-          "copyright": "Lawrence Fried/Film Forum"
+          "caption": "Sonya Yoncheva, left, as \u00c9lisabeth and Matthew Polenzani in the title role in a new production of Verdi\u2019s \u201cDon Carlos\u201d at the Metropolitan Opera.",
+          "copyright": "Sara Krulwich/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/19/arts/automat-interview1/merlin_201892206_b6152079-fadc-48b8-b160-295362ceca4e-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/03/02/arts/01metopera-1/01metopera-1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Audrey Hepburn at a Horn & Hardart restaurant. The dining chain is the subject of the documentary \u201cThe Automat.\u201d",
-          "copyright": "Lawrence Fried/Film Forum"
+          "caption": "Sonya Yoncheva, left, as \u00c9lisabeth and Matthew Polenzani in the title role in a new production of Verdi\u2019s \u201cDon Carlos\u201d at the Metropolitan Opera.",
+          "copyright": "Sara Krulwich/The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3gYaUUY"
+      "short_url": "https://nyti.ms/3CbTTjR"
     },
     {
       "section": "movies",
       "subsection": "",
-      "title": "\u2018Texas Chainsaw Massacre\u2019 Review: The Blade Is Back",
-      "abstract": "Leatherface returns to terrorize a fresh batch of innocents in this poorly plotted, efficiently executed Netflix blood bath.",
-      "url": "https://www.nytimes.com/2022/02/18/movies/texas-chainsaw-massacre-review.html",
-      "uri": "nyt://article/73ab9b56-83db-5721-9db8-e276d2bad8b0",
-      "byline": "By Jeannette Catsoulis",
+      "title": "\u2018The Unknown Man of Shandigor\u2019 Review: A Sci-Fi Fable of the Nuclear Anxiety Age",
+      "abstract": "What if you had a formula to sterilize all the world\u2019s nuclear weapons? This newly restored 1967 spy spoof suggests you\u2019d be much sought-after.",
+      "url": "https://www.nytimes.com/2022/03/01/movies/the-unknown-man-of-shandigor-review.html",
+      "uri": "nyt://article/16821e75-f80c-58e8-9029-50b23f8b5615",
+      "byline": "By Glenn Kenny",
       "item_type": "Article",
-      "updated_date": "2022-02-18T14:24:15-05:00",
-      "created_date": "2022-02-18T03:00:04-05:00",
-      "published_date": "2022-02-18T03:00:04-05:00",
+      "updated_date": "2022-03-01T13:50:01-05:00",
+      "created_date": "2022-03-01T12:29:35-05:00",
+      "published_date": "2022-03-01T12:29:35-05:00",
       "material_type_facet": "",
-      "kicker": "",
+      "kicker": "Critic\u2019s Pick",
       "des_facet": [
         "Movies",
-        "Texas Chainsaw Massacre (2022) (Movie)"
+        "The Unknown Man of Shandigor (Movie)"
       ],
       "org_facet": [],
       "per_facet": [
-        "Garcia, David Blue"
+        "Roy, Jean-Louis"
       ],
       "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/18/arts/texas1/merlin_201892017_9a71c7f6-b613-4b98-a26a-0c089e5596b5-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2022/02/28/arts/unknown1/merlin_202853436_9a571019-0cf4-4a08-81b1-534748fdbd5e-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1151,
-          "width": 2048,
+          "height": 1380,
+          "width": 2004,
           "type": "image",
           "subtype": "photo",
-          "caption": "From left, Elsie Fisher, Sarah Yarkin, Nell Hudson and Jacob Latimore in \u201cTexas Chainsaw Massacre.\u201d",
-          "copyright": "Yana Blajeva/Netflix"
+          "caption": "Daniel Emilfork in \u201cThe Unknown Man of Shandigor.\u201d",
+          "copyright": "Deaf Crocodile/Grasshopper Film"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/18/arts/texas1/texas1-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2022/02/28/arts/unknown1/unknown1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "From left, Elsie Fisher, Sarah Yarkin, Nell Hudson and Jacob Latimore in \u201cTexas Chainsaw Massacre.\u201d",
-          "copyright": "Yana Blajeva/Netflix"
+          "caption": "Daniel Emilfork in \u201cThe Unknown Man of Shandigor.\u201d",
+          "copyright": "Deaf Crocodile/Grasshopper Film"
         },
         {
-          "url": "https://static01.nyt.com/images/2022/02/18/arts/texas1/texas1-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2022/02/28/arts/unknown1/unknown1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "From left, Elsie Fisher, Sarah Yarkin, Nell Hudson and Jacob Latimore in \u201cTexas Chainsaw Massacre.\u201d",
-          "copyright": "Yana Blajeva/Netflix"
+          "caption": "Daniel Emilfork in \u201cThe Unknown Man of Shandigor.\u201d",
+          "copyright": "Deaf Crocodile/Grasshopper Film"
         }
       ],
-      "short_url": "https://nyti.ms/3gVA6LN"
+      "short_url": "https://nyti.ms/3IC4rLv"
     }
   ]
 }

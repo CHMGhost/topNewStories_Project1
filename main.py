@@ -1,5 +1,7 @@
 import streamlit as st
-import main_functions, requests, nltk
+import main_functions
+import requests
+import nltk
 from datetime import date, time
 import pandas as pd
 import numpy as np
@@ -13,7 +15,7 @@ from nltk.corpus import stopwords
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-#Streamlit set up
+# Streamlit set up
 st.set_page_config(
     page_title='COP 4813 - Web Application Programming - Project 1',
     layout='wide'
