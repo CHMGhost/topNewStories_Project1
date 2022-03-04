@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from nltk import sent_tokenize, word_tokenize
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
-nltk.download("punkt")
+nltk.download("all")
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
